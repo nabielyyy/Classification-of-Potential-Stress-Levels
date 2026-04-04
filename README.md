@@ -29,9 +29,9 @@ python src/data2/ingestion.py
 
 ---
 
-# 🚀 3. DATA PREPROCESSING
+# 3. DATA PREPROCESSING
 
-```markdown
+``markdown
 ## Data Preprocessing
 
 Script: `src/data2/process.py`
@@ -48,21 +48,3 @@ Cara menjalankan:
 python src/data2/process.py
 
 ---
-
-# 🚀 4. STRUKTUR PROJECT (BIAR DOSEN SENENG)
-
-```markdown
-## Struktur Folder
-project/
-│
-├── data/
-│ ├── raw/
-│ ├── processed/
-│
-├── src/
-│ ├── data2/
-│ │ ├── ingestion.py
-│ │ ├── process.py
-│ ├── features/
-│
-├── README.md
