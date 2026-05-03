@@ -1,0 +1,1001 @@
+User_ID,Age,Gender,Occupation,Device_Type,Daily_Phone_Hours,Social_Media_Hours,Work_Productivity_Score,Sleep_Hours,Stress_Level,App_Usage_Count,Caffeine_Intake_Cups,Weekend_Screen_Time_Hours
+U29001,52,Male,Freelancer,iOS,6.6,2.4,8,6.8,1,38,2,13.7
+U29002,35,Other,Professional,Android,8.0,4.0,2,4.5,3,23,6,6.7
+U29003,56,Female,Student,Android,11.4,7.8,7,6.4,8,38,6,12.7
+U29004,22,Other,Business Owner,iOS,1.6,6.4,3,9.0,3,46,3,6.6
+U29005,34,Female,Freelancer,Android,10.4,4.7,7,5.2,5,51,1,8.0
+U29006,56,Other,Freelancer,Android,9.3,7.4,5,6.9,10,42,5,3.6
+U29007,50,Male,Freelancer,Android,9.6,3.6,10,4.2,10,57,3,3.0
+U29008,45,Other,Freelancer,Android,9.0,7.5,7,4.7,8,10,4,2.6
+U29009,20,Other,Professional,iOS,4.9,5.4,4,7.5,3,16,4,6.7
+U29010,55,Male,Professional,Android,11.9,4.2,5,7.6,6,28,6,3.0
+U29011,57,Male,Student,Android,11.7,1.0,9,7.6,3,40,2,10.2
+U29012,38,Other,Professional,Android,10.3,6.3,4,5.9,10,7,4,6.0
+U29013,38,Female,Business Owner,Android,7.9,1.4,5,4.3,7,46,5,4.6
+U29014,18,Other,Student,Android,11.7,3.5,9,4.0,3,5,5,7.1
+U29015,36,Other,Freelancer,Android,8.9,5.5,5,5.0,9,58,2,10.4
+U29016,56,Female,Professional,Android,4.4,1.9,4,5.6,3,49,5,7.0
+U29017,60,Other,Freelancer,Android,10.4,3.9,8,9.0,7,27,0,3.9
+U29018,31,Female,Student,Android,7.2,0.7,9,5.4,6,14,0,12.3
+U29019,27,Female,Freelancer,iOS,1.4,1.2,3,4.1,4,49,6,5.7
+U29020,44,Male,Business Owner,Android,11.1,2.5,4,5.3,6,50,1,8.2
+U29021,45,Other,Student,Android,9.7,5.3,1,5.7,5,46,0,13.5
+U29022,36,Female,Business Owner,iOS,2.9,4.7,9,6.7,9,55,1,8.0
+U29023,31,Female,Business Owner,Android,3.7,0.8,9,8.3,7,52,4,9.4
+U29024,26,Other,Professional,iOS,6.2,1.3,1,5.2,1,35,4,4.9
+U29025,26,Male,Professional,iOS,6.4,2.9,7,7.5,1,33,1,10.8
+U29026,32,Other,Professional,Android,2.0,4.6,4,8.8,8,56,2,5.9
+U29027,55,Female,Freelancer,Android,2.1,2.0,3,8.6,4,17,4,6.4
+U29028,34,Other,Student,iOS,11.6,4.6,9,4.8,3,48,1,5.2
+U29029,42,Female,Freelancer,iOS,6.4,7.3,5,8.6,9,26,5,11.9
+U29030,24,Male,Student,iOS,9.7,4.2,1,4.2,1,38,1,10.6
+U29031,26,Female,Professional,Android,7.3,1.3,9,6.3,5,15,1,12.7
+U29032,24,Male,Business Owner,Android,6.6,1.9,5,5.2,1,14,4,7.7
+U29033,28,Other,Freelancer,iOS,9.7,5.4,9,5.1,6,48,5,3.9
+U29034,53,Other,Student,iOS,8.9,7.8,4,4.4,7,60,6,2.4
+U29035,55,Male,Student,iOS,3.0,1.5,1,6.1,7,45,6,12.4
+U29036,52,Male,Professional,iOS,2.2,6.0,6,7.8,8,32,1,3.3
+U29037,59,Other,Student,Android,3.3,1.4,5,5.0,3,23,3,2.7
+U29038,22,Female,Freelancer,iOS,5.0,5.3,2,4.6,9,44,5,3.9
+U29039,60,Female,Freelancer,iOS,6.4,2.7,4,4.4,8,11,3,9.1
+U29040,24,Male,Professional,Android,1.7,5.8,9,7.1,1,7,1,8.3
+U29041,39,Male,Student,iOS,5.7,2.7,5,5.0,7,26,3,12.9
+U29042,57,Male,Freelancer,iOS,9.1,3.1,7,6.7,8,40,4,3.0
+U29043,36,Other,Business Owner,iOS,8.1,6.1,3,4.3,3,25,2,11.3
+U29044,53,Female,Student,Android,6.7,1.7,2,8.9,1,28,1,8.4
+U29045,39,Other,Professional,Android,10.1,1.0,9,5.3,2,15,1,7.9
+U29046,32,Other,Professional,iOS,3.1,5.7,5,4.4,5,10,3,6.5
+U29047,34,Female,Student,Android,6.1,6.5,6,8.4,5,11,1,2.0
+U29048,19,Female,Student,Android,4.2,3.3,10,6.8,6,45,1,8.0
+U29049,18,Other,Freelancer,Android,8.3,1.9,5,7.0,4,18,6,11.4
+U29050,22,Other,Business Owner,iOS,4.8,0.6,5,8.3,5,20,2,6.1
+U29051,29,Other,Freelancer,Android,6.0,7.6,5,4.6,1,24,0,12.1
+U29052,46,Female,Freelancer,iOS,10.9,1.3,5,4.3,10,60,2,9.3
+U29053,45,Other,Business Owner,iOS,7.0,1.7,1,7.2,3,37,4,5.7
+U29054,28,Male,Business Owner,Android,2.2,4.7,2,4.8,8,59,6,5.9
+U29055,26,Other,Business Owner,iOS,2.7,1.4,2,7.5,2,37,4,6.4
+U29056,30,Female,Freelancer,iOS,6.1,6.1,9,8.3,2,40,3,9.7
+U29057,55,Female,Freelancer,iOS,4.9,6.2,5,8.8,10,44,4,13.1
+U29058,51,Female,Business Owner,Android,2.1,2.9,6,7.4,1,41,5,4.7
+U29059,37,Male,Freelancer,iOS,2.3,2.7,6,4.1,10,24,1,8.1
+U29060,49,Other,Student,Android,7.3,4.5,7,8.3,5,48,0,10.6
+U29061,37,Male,Professional,iOS,1.2,6.7,4,6.1,7,48,4,11.4
+U29062,29,Male,Student,Android,5.5,5.7,9,4.9,6,30,0,3.0
+U29063,58,Female,Professional,Android,4.4,3.8,2,4.3,9,38,0,11.0
+U29064,28,Female,Business Owner,iOS,5.6,3.4,9,8.5,5,28,3,9.6
+U29065,39,Male,Professional,Android,5.8,6.4,5,6.8,5,10,0,3.0
+U29066,43,Male,Business Owner,Android,2.0,2.0,3,8.8,5,35,5,2.6
+U29067,47,Female,Business Owner,Android,1.9,5.1,7,7.1,2,23,3,10.7
+U29068,50,Other,Business Owner,Android,4.0,6.9,6,8.0,2,7,6,3.6
+U29069,49,Other,Professional,iOS,8.2,7.1,8,4.1,1,23,2,2.8
+U29070,22,Other,Business Owner,Android,5.7,5.8,2,8.7,3,53,2,4.2
+U29071,50,Other,Freelancer,Android,8.3,2.2,9,5.5,6,31,4,5.5
+U29072,50,Female,Freelancer,iOS,8.4,2.6,4,7.9,4,51,6,10.3
+U29073,51,Female,Professional,Android,7.2,4.7,10,8.6,9,18,2,10.7
+U29074,27,Male,Professional,Android,9.3,4.1,8,5.8,8,18,1,7.7
+U29075,26,Male,Student,Android,4.8,2.5,9,8.9,2,9,1,6.5
+U29076,31,Other,Business Owner,Android,8.1,3.0,9,4.4,6,36,6,9.3
+U29077,46,Other,Freelancer,Android,8.5,1.4,9,8.8,10,5,4,9.3
+U29078,51,Other,Business Owner,iOS,9.0,4.5,2,8.0,8,11,0,8.9
+U29079,59,Male,Student,iOS,3.7,4.5,10,6.8,5,31,1,11.6
+U29080,52,Other,Freelancer,Android,4.8,1.0,7,5.4,8,18,6,8.7
+U29081,59,Male,Student,Android,10.8,5.8,9,8.9,4,18,2,8.1
+U29082,48,Female,Freelancer,Android,7.9,1.5,4,4.9,6,8,6,9.8
+U29083,21,Male,Business Owner,Android,2.2,3.2,3,7.5,5,21,1,8.9
+U29084,39,Male,Business Owner,iOS,10.6,7.2,1,8.2,4,54,0,3.6
+U29085,60,Other,Professional,iOS,7.5,2.0,9,5.7,6,54,6,4.3
+U29086,52,Other,Business Owner,iOS,8.8,4.5,1,5.6,7,20,6,3.9
+U29087,36,Female,Freelancer,Android,7.6,5.4,4,6.9,3,34,3,8.9
+U29088,22,Female,Freelancer,Android,7.3,7.1,3,6.8,2,26,6,6.7
+U29089,42,Other,Student,Android,7.3,5.3,9,4.2,9,49,4,2.9
+U29090,51,Female,Professional,iOS,4.4,3.2,10,4.9,9,58,1,3.1
+U29091,21,Male,Student,iOS,7.4,2.1,8,5.3,7,48,1,6.0
+U29092,42,Male,Professional,Android,2.6,6.5,7,6.4,9,44,0,13.9
+U29093,22,Female,Student,Android,9.9,4.1,2,5.8,1,51,2,12.8
+U29094,30,Other,Student,iOS,3.4,6.2,6,7.6,3,23,5,8.2
+U29095,34,Other,Student,iOS,2.8,2.4,3,6.5,9,8,2,2.6
+U29096,54,Other,Freelancer,iOS,2.0,6.6,1,7.1,7,13,2,2.4
+U29097,59,Other,Student,iOS,9.7,3.3,6,6.9,8,13,5,9.7
+U29098,41,Female,Business Owner,Android,1.6,7.6,6,6.9,4,58,3,2.8
+U29099,43,Female,Business Owner,Android,9.7,1.1,4,6.4,8,5,6,4.6
+U29100,37,Other,Freelancer,iOS,5.7,4.9,2,7.9,8,53,2,4.0
+U29101,47,Female,Business Owner,Android,2.1,7.9,3,8.7,8,8,0,7.7
+U29102,54,Other,Freelancer,iOS,8.5,1.4,9,8.6,9,15,6,5.0
+U29103,56,Male,Professional,iOS,9.5,6.4,6,4.9,4,41,5,11.7
+U29104,52,Other,Professional,iOS,7.6,1.2,3,6.1,3,43,1,10.9
+U29105,35,Other,Professional,Android,8.6,1.1,10,7.0,9,51,1,8.4
+U29106,43,Female,Student,iOS,11.2,4.9,10,4.9,9,43,1,3.0
+U29107,19,Other,Student,iOS,5.1,5.5,9,5.3,8,30,5,11.0
+U29108,38,Male,Freelancer,iOS,3.3,0.8,5,8.6,4,54,6,7.3
+U29109,50,Female,Freelancer,Android,6.7,3.8,9,4.8,3,29,4,12.2
+U29110,45,Female,Student,Android,9.9,1.1,5,6.0,2,36,5,2.7
+U29111,46,Female,Business Owner,Android,10.0,8.0,3,6.2,8,50,5,11.7
+U29112,57,Female,Business Owner,Android,5.6,3.9,7,7.4,1,41,5,5.3
+U29113,35,Female,Freelancer,iOS,1.2,0.7,8,5.0,9,40,3,6.2
+U29114,54,Female,Freelancer,Android,4.8,5.8,7,4.5,2,20,4,13.7
+U29115,42,Male,Business Owner,iOS,1.8,7.0,6,5.9,2,52,0,3.1
+U29116,30,Other,Freelancer,Android,3.6,7.0,7,4.3,6,58,2,10.7
+U29117,52,Other,Business Owner,Android,4.9,6.5,4,7.5,10,43,4,9.6
+U29118,33,Male,Business Owner,Android,3.4,2.8,9,5.4,1,38,5,10.1
+U29119,18,Other,Business Owner,Android,6.7,7.7,4,7.5,5,11,0,11.4
+U29120,57,Female,Professional,Android,11.1,4.4,9,7.3,7,60,2,2.6
+U29121,46,Female,Student,iOS,7.1,7.1,10,6.2,10,15,4,4.8
+U29122,27,Other,Freelancer,iOS,5.7,3.2,3,5.0,10,48,3,2.8
+U29123,30,Male,Freelancer,iOS,7.1,0.7,5,5.1,2,11,3,12.8
+U29124,43,Female,Freelancer,iOS,10.1,2.1,1,8.7,7,15,0,3.2
+U29125,25,Male,Business Owner,Android,2.8,3.7,6,6.7,4,35,1,6.8
+U29126,21,Male,Professional,Android,11.8,2.8,5,8.7,6,8,0,6.3
+U29127,52,Female,Professional,iOS,9.7,5.1,6,4.1,1,35,2,12.7
+U29128,21,Female,Freelancer,iOS,3.6,5.5,5,7.4,2,31,1,4.3
+U29129,54,Other,Business Owner,iOS,9.6,1.7,7,8.7,8,10,6,11.6
+U29130,27,Male,Business Owner,iOS,5.8,3.8,7,6.4,2,13,5,3.3
+U29131,44,Other,Professional,iOS,4.8,5.0,1,5.8,10,32,2,8.1
+U29132,23,Male,Business Owner,iOS,11.9,1.6,10,8.7,5,7,0,3.2
+U29133,42,Male,Freelancer,Android,6.7,5.4,7,8.0,6,13,3,7.3
+U29134,43,Other,Business Owner,Android,7.3,2.1,2,6.7,3,27,0,7.6
+U29135,26,Male,Business Owner,Android,5.1,5.9,6,7.1,1,7,6,3.6
+U29136,18,Female,Freelancer,iOS,11.4,2.8,5,6.4,5,18,1,11.5
+U29137,24,Male,Business Owner,iOS,10.1,5.1,5,6.4,9,6,2,12.1
+U29138,44,Male,Freelancer,Android,12.0,7.3,4,6.3,1,16,3,13.9
+U29139,38,Other,Student,Android,5.3,5.4,10,5.4,6,46,0,4.8
+U29140,40,Other,Professional,iOS,5.1,5.0,5,4.6,5,56,1,2.5
+U29141,38,Other,Freelancer,iOS,10.5,4.1,4,7.0,8,35,1,4.8
+U29142,46,Female,Business Owner,Android,4.2,6.3,10,6.1,9,37,0,4.1
+U29143,50,Female,Professional,Android,5.8,7.0,7,4.3,9,44,4,11.6
+U29144,44,Female,Student,Android,11.5,5.9,4,8.6,1,50,6,9.7
+U29145,35,Female,Business Owner,iOS,7.6,7.7,5,5.9,1,48,4,9.0
+U29146,39,Other,Freelancer,Android,4.4,5.9,7,7.1,1,12,2,6.0
+U29147,49,Male,Business Owner,iOS,8.9,7.8,4,6.5,2,31,6,8.3
+U29148,60,Male,Student,iOS,5.7,4.0,9,4.1,6,16,1,5.7
+U29149,51,Female,Student,iOS,2.7,1.6,7,6.0,6,36,5,8.8
+U29150,43,Other,Professional,iOS,5.0,2.6,2,4.1,1,40,1,5.2
+U29151,38,Other,Student,iOS,10.0,5.6,4,4.9,4,59,4,4.9
+U29152,38,Male,Student,Android,3.5,8.0,6,6.6,6,40,5,8.9
+U29153,40,Other,Professional,iOS,9.2,5.5,1,8.0,9,46,3,7.9
+U29154,49,Female,Professional,Android,7.4,5.4,10,7.9,7,29,5,2.6
+U29155,40,Other,Business Owner,Android,1.6,1.4,9,6.0,6,44,2,8.5
+U29156,24,Other,Professional,Android,3.5,6.8,1,5.4,9,38,3,7.4
+U29157,29,Male,Professional,Android,6.8,1.7,2,7.8,2,30,1,8.5
+U29158,34,Female,Professional,iOS,9.7,4.0,9,4.5,6,23,6,13.5
+U29159,48,Female,Student,Android,9.7,7.6,8,7.8,5,43,3,2.6
+U29160,45,Other,Business Owner,iOS,10.0,7.8,10,7.3,2,29,5,11.1
+U29161,35,Male,Freelancer,iOS,9.0,3.8,4,6.0,4,58,2,7.4
+U29162,18,Other,Freelancer,iOS,2.8,1.1,5,6.8,7,23,3,3.2
+U29163,18,Other,Student,Android,7.2,6.3,1,8.1,4,25,6,5.7
+U29164,21,Male,Professional,iOS,8.8,1.9,5,5.6,4,18,6,13.7
+U29165,42,Female,Freelancer,Android,6.3,7.6,8,5.7,5,46,4,7.0
+U29166,51,Male,Professional,iOS,1.5,3.4,4,4.8,4,10,5,7.5
+U29167,46,Other,Business Owner,Android,9.0,4.7,5,5.7,2,44,1,4.4
+U29168,39,Female,Business Owner,Android,11.2,4.7,7,8.1,3,21,0,5.9
+U29169,51,Female,Business Owner,iOS,1.3,7.5,1,8.2,8,30,0,11.2
+U29170,44,Female,Business Owner,iOS,2.6,6.3,4,5.8,6,14,5,7.7
+U29171,51,Male,Freelancer,Android,10.1,2.4,4,7.2,5,5,4,7.0
+U29172,26,Other,Student,iOS,3.3,0.6,2,8.4,10,5,5,6.0
+U29173,36,Other,Business Owner,Android,3.7,2.8,7,5.8,7,20,4,11.7
+U29174,21,Female,Student,iOS,7.4,1.9,8,8.2,10,43,5,13.5
+U29175,40,Female,Business Owner,Android,1.3,5.3,1,6.4,7,57,2,10.2
+U29176,22,Other,Student,iOS,7.8,6.9,9,8.5,7,48,0,5.7
+U29177,44,Male,Business Owner,iOS,9.6,4.9,6,5.1,1,51,6,12.4
+U29178,42,Male,Professional,Android,10.8,3.0,6,8.9,9,15,4,13.6
+U29179,40,Other,Business Owner,Android,5.3,2.4,10,4.5,2,34,4,6.0
+U29180,34,Male,Business Owner,iOS,8.1,4.7,9,5.8,5,39,1,8.0
+U29181,38,Female,Freelancer,Android,4.2,4.7,2,5.1,4,35,4,2.4
+U29182,24,Other,Student,Android,11.3,4.6,6,7.6,4,48,3,4.1
+U29183,27,Female,Business Owner,iOS,9.5,3.4,2,5.2,6,36,0,8.9
+U29184,29,Male,Professional,iOS,1.3,0.7,9,7.2,10,46,5,12.7
+U29185,34,Other,Professional,Android,9.4,7.6,9,7.2,2,39,6,9.9
+U29186,37,Male,Business Owner,iOS,6.1,6.1,2,8.2,2,45,0,4.7
+U29187,34,Male,Business Owner,Android,10.4,2.5,9,6.7,6,50,4,12.0
+U29188,22,Female,Business Owner,Android,4.1,6.5,8,8.1,7,41,0,3.1
+U29189,50,Other,Student,Android,12.0,3.3,4,5.4,9,53,4,5.8
+U29190,55,Female,Professional,iOS,2.4,6.5,5,6.8,5,42,6,10.2
+U29191,57,Other,Freelancer,iOS,5.3,3.5,1,6.0,9,35,0,8.8
+U29192,48,Female,Student,Android,7.8,1.6,2,7.0,8,29,0,8.7
+U29193,36,Male,Freelancer,Android,7.9,4.3,3,5.9,1,35,5,11.7
+U29194,18,Female,Student,Android,3.6,4.1,9,4.5,4,53,6,8.7
+U29195,27,Male,Professional,Android,2.9,2.2,3,5.9,1,36,4,7.8
+U29196,30,Female,Business Owner,Android,8.3,2.1,3,8.8,6,14,0,2.9
+U29197,30,Female,Freelancer,Android,4.3,4.0,5,5.2,2,56,1,12.0
+U29198,51,Female,Student,iOS,3.8,4.2,6,4.8,6,12,4,6.8
+U29199,44,Male,Business Owner,Android,10.2,1.2,9,4.9,2,20,2,9.2
+U29200,52,Other,Professional,Android,7.4,2.7,6,8.7,9,10,5,13.3
+U29201,45,Male,Professional,Android,11.2,1.3,3,7.7,9,41,6,5.7
+U29202,19,Male,Business Owner,Android,6.3,3.1,3,8.6,1,47,4,10.2
+U29203,50,Female,Business Owner,iOS,1.3,5.3,4,4.8,3,15,1,7.9
+U29204,32,Other,Business Owner,Android,2.0,2.5,1,8.5,7,43,0,2.9
+U29205,38,Other,Student,Android,4.9,7.6,10,5.9,4,39,5,7.9
+U29206,48,Female,Freelancer,Android,1.3,6.6,3,7.6,1,25,4,5.8
+U29207,20,Female,Professional,Android,4.4,3.7,7,6.8,2,56,2,3.9
+U29208,22,Male,Student,iOS,4.6,3.3,10,5.9,7,59,4,8.4
+U29209,46,Other,Business Owner,Android,9.8,5.6,4,5.1,3,32,5,5.4
+U29210,19,Other,Freelancer,Android,6.8,1.6,6,6.9,1,7,2,4.1
+U29211,33,Male,Professional,Android,3.7,4.0,8,5.1,6,53,1,12.0
+U29212,44,Other,Professional,iOS,11.1,4.4,7,6.1,6,38,2,8.0
+U29213,30,Female,Professional,iOS,6.2,3.3,2,5.3,2,31,5,11.8
+U29214,20,Female,Student,Android,6.9,3.8,7,5.8,4,12,0,2.4
+U29215,57,Male,Student,Android,6.8,5.3,7,6.0,8,5,6,5.9
+U29216,37,Female,Student,iOS,10.1,5.7,1,7.3,1,9,1,10.9
+U29217,35,Other,Student,iOS,9.6,0.7,2,4.5,2,9,5,9.2
+U29218,27,Other,Business Owner,iOS,3.6,1.8,4,8.7,8,23,2,10.3
+U29219,31,Other,Business Owner,iOS,11.4,1.3,5,6.6,3,21,5,2.5
+U29220,50,Other,Student,iOS,1.4,4.9,9,7.0,1,57,3,8.0
+U29221,59,Male,Business Owner,Android,4.2,4.6,5,7.6,6,29,0,3.3
+U29222,44,Male,Freelancer,iOS,8.6,6.6,7,4.0,5,43,0,2.6
+U29223,21,Other,Business Owner,iOS,3.8,8.0,3,8.7,5,24,0,4.9
+U29224,29,Female,Student,iOS,3.7,5.5,1,8.1,3,38,1,6.3
+U29225,20,Male,Professional,iOS,7.8,5.2,10,4.5,1,9,3,7.0
+U29226,39,Female,Professional,iOS,4.6,4.6,3,6.2,3,21,0,12.2
+U29227,21,Other,Professional,Android,6.9,1.3,1,8.8,4,43,5,5.9
+U29228,52,Other,Professional,iOS,10.0,5.1,8,7.1,3,36,2,12.9
+U29229,57,Other,Professional,Android,5.7,5.3,6,6.3,6,42,4,8.1
+U29230,52,Female,Freelancer,iOS,1.3,3.8,5,5.6,3,54,4,8.0
+U29231,32,Male,Business Owner,Android,8.8,2.8,2,4.9,3,53,4,2.3
+U29232,19,Male,Professional,Android,2.4,4.2,7,5.8,9,57,0,6.6
+U29233,56,Male,Business Owner,iOS,2.3,5.1,9,8.2,5,34,5,13.6
+U29234,35,Male,Student,Android,4.8,0.7,6,4.4,10,5,1,8.3
+U29235,22,Male,Professional,Android,7.3,4.1,2,6.8,6,14,1,8.9
+U29236,31,Other,Freelancer,iOS,1.9,2.2,4,7.9,6,22,4,7.9
+U29237,35,Female,Business Owner,Android,8.2,1.3,8,4.4,7,36,5,11.3
+U29238,60,Other,Student,iOS,3.4,4.1,1,5.4,2,50,2,6.5
+U29239,55,Other,Student,iOS,6.4,0.6,10,6.3,3,38,5,12.0
+U29240,18,Female,Freelancer,Android,3.7,6.2,4,6.3,5,32,6,11.7
+U29241,55,Female,Professional,iOS,5.8,6.7,6,6.7,1,50,1,4.3
+U29242,45,Male,Business Owner,Android,6.0,0.8,8,4.7,2,34,5,5.5
+U29243,58,Male,Student,iOS,11.3,1.0,5,6.5,1,43,2,3.7
+U29244,22,Male,Professional,iOS,2.0,6.9,10,9.0,6,35,1,4.9
+U29245,56,Male,Student,Android,7.1,7.4,10,6.1,4,53,6,9.1
+U29246,48,Female,Professional,Android,7.0,5.9,7,8.2,7,44,6,8.1
+U29247,56,Female,Freelancer,Android,11.0,6.0,5,5.1,2,13,3,12.5
+U29248,49,Other,Professional,Android,1.7,4.5,9,5.7,8,51,6,2.6
+U29249,54,Male,Freelancer,Android,5.1,4.7,10,5.0,5,58,1,11.1
+U29250,49,Female,Professional,iOS,2.0,2.8,6,5.7,7,46,1,6.6
+U29251,26,Female,Professional,iOS,9.8,6.7,4,4.1,7,57,2,8.5
+U29252,35,Male,Professional,Android,7.4,4.8,1,5.5,9,21,2,10.2
+U29253,39,Female,Student,iOS,8.9,2.3,2,7.7,5,39,1,4.1
+U29254,27,Other,Freelancer,iOS,6.4,4.6,8,7.4,4,43,1,6.3
+U29255,53,Female,Business Owner,Android,10.2,2.4,7,5.9,6,10,3,11.4
+U29256,35,Other,Professional,iOS,8.5,6.3,8,5.0,9,50,0,13.0
+U29257,25,Other,Student,Android,11.5,3.9,9,5.2,4,12,1,11.9
+U29258,31,Male,Student,Android,1.2,4.6,7,5.2,6,58,3,10.3
+U29259,41,Other,Student,Android,10.7,7.9,5,6.5,6,45,6,3.8
+U29260,42,Female,Professional,iOS,7.5,0.9,5,6.1,9,30,2,12.1
+U29261,57,Female,Professional,Android,4.1,5.8,6,6.5,7,27,3,9.4
+U29262,35,Female,Student,Android,7.1,5.5,4,6.1,2,23,1,2.4
+U29263,51,Male,Student,Android,1.3,1.4,8,5.9,8,58,4,7.0
+U29264,18,Male,Professional,iOS,10.5,6.1,2,8.2,2,10,1,11.0
+U29265,37,Female,Student,Android,11.0,0.6,4,8.4,1,42,4,3.8
+U29266,38,Male,Business Owner,iOS,8.5,6.7,5,5.7,3,38,0,6.2
+U29267,20,Other,Student,iOS,3.3,3.6,4,7.3,2,56,2,7.9
+U29268,47,Female,Professional,Android,7.1,2.7,10,6.1,6,16,3,3.2
+U29269,31,Male,Business Owner,Android,10.4,6.7,7,8.2,1,15,2,12.5
+U29270,40,Other,Freelancer,Android,6.6,3.0,2,6.2,5,51,0,12.7
+U29271,42,Other,Student,Android,4.6,1.1,5,4.2,3,8,3,2.9
+U29272,49,Other,Professional,Android,11.2,2.2,6,5.7,8,25,2,3.4
+U29273,37,Other,Professional,iOS,3.3,2.2,3,4.6,8,33,2,10.9
+U29274,50,Female,Business Owner,iOS,2.8,6.3,3,5.2,5,25,6,6.6
+U29275,18,Male,Freelancer,Android,2.3,1.9,6,7.5,8,39,3,2.5
+U29276,54,Female,Student,iOS,8.7,7.2,2,5.7,3,13,0,5.7
+U29277,38,Male,Professional,Android,9.9,4.4,5,4.4,4,40,2,6.4
+U29278,49,Other,Professional,iOS,10.8,7.4,10,6.3,9,37,4,9.6
+U29279,58,Female,Student,Android,7.9,6.8,9,7.2,1,25,4,4.3
+U29280,58,Other,Professional,Android,3.4,2.6,6,6.0,8,47,3,5.1
+U29281,32,Other,Freelancer,Android,4.8,3.7,8,7.2,2,48,1,11.4
+U29282,54,Female,Business Owner,iOS,6.8,6.7,10,7.0,10,15,4,9.1
+U29283,34,Female,Student,Android,6.5,5.8,2,6.9,7,57,1,2.3
+U29284,19,Female,Student,Android,10.8,0.6,3,7.9,9,16,6,2.7
+U29285,39,Female,Student,Android,8.9,5.6,10,8.8,10,39,1,13.8
+U29286,55,Female,Professional,Android,4.1,5.6,2,7.3,3,60,2,9.8
+U29287,58,Female,Business Owner,Android,9.2,2.8,8,6.0,7,17,0,4.5
+U29288,53,Other,Professional,Android,1.4,3.3,2,6.7,1,53,4,10.6
+U29289,20,Male,Professional,iOS,2.4,4.8,2,5.3,6,45,2,12.0
+U29290,26,Other,Student,iOS,9.7,1.6,6,4.2,3,57,0,7.6
+U29291,60,Male,Professional,iOS,7.2,0.6,6,6.8,2,39,1,13.9
+U29292,45,Other,Business Owner,iOS,7.3,2.2,1,8.4,6,42,5,11.2
+U29293,18,Female,Business Owner,Android,2.9,0.8,7,6.3,7,40,4,10.7
+U29294,28,Male,Freelancer,iOS,5.8,5.2,3,8.8,8,29,5,3.7
+U29295,57,Male,Professional,iOS,4.7,1.8,6,4.9,5,21,5,7.5
+U29296,34,Female,Business Owner,iOS,12.0,7.3,7,6.2,9,18,5,2.2
+U29297,35,Female,Professional,iOS,3.0,7.4,5,5.9,9,48,6,9.0
+U29298,27,Female,Freelancer,Android,6.9,0.5,1,6.5,6,40,1,4.9
+U29299,59,Other,Business Owner,Android,6.0,6.8,10,6.2,1,40,3,11.7
+U29300,20,Female,Freelancer,Android,2.3,5.4,10,8.8,6,60,0,4.7
+U29301,32,Female,Freelancer,Android,9.8,3.7,3,7.8,1,31,6,6.9
+U29302,23,Other,Business Owner,iOS,8.6,7.9,8,6.3,2,49,1,3.4
+U29303,40,Female,Student,iOS,10.9,2.8,9,5.0,1,21,4,7.1
+U29304,51,Other,Professional,Android,4.4,3.5,6,5.1,8,35,3,6.1
+U29305,56,Female,Business Owner,Android,11.7,6.5,10,5.9,9,59,1,11.6
+U29306,26,Female,Freelancer,Android,1.9,4.7,4,8.2,5,50,1,2.1
+U29307,39,Male,Student,Android,8.9,4.0,5,7.9,5,54,3,2.4
+U29308,51,Female,Business Owner,iOS,2.3,4.3,6,6.1,8,44,3,6.4
+U29309,35,Female,Business Owner,iOS,9.0,5.1,8,6.3,7,12,2,9.3
+U29310,57,Other,Student,Android,1.8,4.1,4,8.1,10,23,2,7.2
+U29311,19,Other,Business Owner,iOS,4.7,7.2,10,6.9,4,10,4,8.8
+U29312,47,Other,Business Owner,Android,5.9,5.8,5,5.2,6,50,6,10.6
+U29313,30,Other,Professional,iOS,9.6,3.5,9,8.5,8,30,6,10.3
+U29314,37,Female,Freelancer,Android,9.4,5.8,4,8.2,3,23,4,12.1
+U29315,27,Male,Freelancer,iOS,8.1,3.4,9,4.1,3,7,1,13.9
+U29316,20,Female,Freelancer,Android,11.0,5.9,7,7.7,9,6,3,8.7
+U29317,32,Male,Professional,iOS,9.1,3.3,9,8.0,3,9,5,4.3
+U29318,24,Male,Student,iOS,9.0,4.3,10,6.5,8,26,6,6.4
+U29319,54,Other,Student,iOS,10.9,7.0,3,5.3,3,19,3,10.1
+U29320,46,Male,Student,Android,6.5,5.1,5,6.4,7,29,2,9.0
+U29321,60,Female,Business Owner,iOS,4.1,6.7,3,8.7,10,53,4,7.2
+U29322,47,Other,Professional,Android,2.5,2.4,9,6.0,5,28,5,10.4
+U29323,48,Male,Professional,iOS,1.8,2.3,3,5.6,2,46,4,13.6
+U29324,36,Male,Student,Android,7.8,5.2,7,6.1,8,53,4,12.0
+U29325,52,Other,Freelancer,Android,8.8,2.9,3,7.9,5,60,4,7.6
+U29326,45,Other,Business Owner,iOS,3.8,0.7,6,8.6,4,13,3,7.9
+U29327,47,Male,Student,iOS,10.3,3.8,10,8.1,9,45,4,2.2
+U29328,41,Male,Student,iOS,11.1,0.8,9,8.7,7,8,3,3.2
+U29329,57,Male,Student,Android,6.3,6.1,2,6.1,10,40,3,6.3
+U29330,41,Other,Professional,iOS,11.9,0.8,4,8.6,2,37,3,4.5
+U29331,25,Other,Student,Android,7.3,6.6,10,4.7,5,20,6,12.0
+U29332,60,Other,Professional,iOS,2.2,7.2,4,5.7,3,10,2,6.2
+U29333,37,Female,Freelancer,iOS,9.7,4.3,1,7.1,3,55,5,5.8
+U29334,22,Male,Professional,Android,11.1,6.8,2,6.0,3,17,6,5.4
+U29335,50,Male,Professional,iOS,4.2,5.6,1,7.8,6,14,4,9.5
+U29336,45,Other,Student,iOS,5.0,6.2,8,5.8,3,28,5,11.7
+U29337,35,Male,Freelancer,Android,6.0,4.1,10,4.9,4,33,5,4.2
+U29338,51,Other,Professional,Android,6.1,5.8,3,8.4,10,49,0,6.1
+U29339,28,Other,Student,iOS,3.1,1.8,10,4.2,7,34,2,3.0
+U29340,30,Other,Business Owner,Android,1.9,1.4,10,4.3,8,23,4,3.2
+U29341,18,Male,Student,iOS,5.1,5.8,10,8.0,10,56,5,8.5
+U29342,50,Other,Student,iOS,6.7,2.4,3,4.1,10,35,3,9.8
+U29343,51,Male,Freelancer,Android,10.7,7.6,1,5.7,3,7,5,12.8
+U29344,26,Male,Professional,iOS,4.3,5.7,5,5.0,8,7,4,10.1
+U29345,56,Male,Professional,Android,5.1,1.3,8,4.6,3,54,6,7.1
+U29346,38,Other,Professional,iOS,6.9,7.6,3,6.8,10,44,6,5.1
+U29347,59,Male,Student,iOS,7.6,4.0,7,5.7,2,7,0,8.6
+U29348,51,Female,Professional,iOS,7.8,3.8,1,5.7,1,32,4,5.9
+U29349,43,Female,Student,iOS,2.5,1.2,10,5.3,2,24,4,2.2
+U29350,50,Other,Student,Android,10.7,5.2,2,4.5,4,41,4,4.8
+U29351,35,Other,Freelancer,Android,11.1,7.1,1,7.2,9,60,3,12.1
+U29352,24,Female,Business Owner,Android,6.7,2.8,10,7.9,7,60,4,9.8
+U29353,54,Female,Professional,iOS,5.8,2.3,2,8.0,8,33,6,6.9
+U29354,44,Male,Freelancer,iOS,5.7,5.6,3,8.5,2,7,3,3.3
+U29355,28,Other,Freelancer,Android,5.6,3.8,6,5.0,7,28,6,12.8
+U29356,33,Male,Freelancer,iOS,3.1,2.3,5,6.9,2,7,0,3.2
+U29357,59,Other,Business Owner,Android,11.8,2.4,9,4.7,2,7,2,7.5
+U29358,32,Female,Professional,iOS,3.4,1.8,3,4.4,5,15,2,5.3
+U29359,28,Other,Freelancer,Android,10.6,6.3,5,4.1,2,9,0,10.8
+U29360,45,Male,Business Owner,Android,10.0,5.5,2,8.4,2,15,1,10.8
+U29361,19,Female,Freelancer,Android,4.7,6.1,6,7.9,10,15,6,5.4
+U29362,59,Other,Student,iOS,4.0,3.3,5,7.5,2,46,3,2.3
+U29363,41,Male,Student,iOS,1.7,4.0,6,6.0,3,11,3,5.7
+U29364,53,Male,Freelancer,Android,5.0,4.3,9,5.0,1,48,3,8.0
+U29365,42,Other,Student,iOS,2.1,6.4,2,6.1,10,12,0,10.5
+U29366,57,Female,Business Owner,Android,8.2,7.5,9,8.6,5,38,3,7.7
+U29367,35,Male,Student,Android,11.1,2.8,7,8.6,2,26,0,5.2
+U29368,28,Other,Freelancer,iOS,2.1,1.0,7,6.6,3,29,5,6.3
+U29369,47,Male,Professional,Android,5.6,3.8,6,7.0,9,53,2,6.4
+U29370,44,Male,Freelancer,iOS,8.5,6.2,6,5.5,1,12,1,6.1
+U29371,48,Other,Business Owner,iOS,3.0,6.5,5,4.9,10,27,2,12.9
+U29372,36,Female,Professional,iOS,8.4,3.7,10,7.8,5,38,5,11.9
+U29373,51,Other,Professional,iOS,5.9,5.4,7,8.3,10,42,0,2.3
+U29374,31,Female,Freelancer,Android,11.8,4.8,8,5.7,8,32,6,4.6
+U29375,24,Male,Student,iOS,4.5,2.7,2,5.7,2,19,6,10.9
+U29376,46,Other,Freelancer,Android,7.2,7.0,7,8.8,6,60,2,2.1
+U29377,30,Female,Freelancer,iOS,4.2,4.1,7,8.9,8,24,4,7.0
+U29378,18,Other,Student,Android,7.2,1.2,7,5.9,3,29,6,2.3
+U29379,42,Female,Professional,Android,6.6,4.3,9,4.3,2,50,4,9.9
+U29380,43,Other,Freelancer,iOS,6.6,2.0,5,8.2,9,35,0,11.3
+U29381,29,Male,Business Owner,iOS,6.3,2.0,8,7.5,3,17,6,9.0
+U29382,55,Female,Professional,Android,1.8,2.1,7,8.4,9,34,3,8.8
+U29383,31,Other,Student,Android,8.4,0.6,6,6.5,10,49,1,10.5
+U29384,60,Male,Student,Android,9.5,3.6,10,7.6,6,50,4,7.8
+U29385,59,Other,Freelancer,iOS,5.6,5.6,3,8.0,6,15,5,9.3
+U29386,23,Female,Freelancer,iOS,2.0,5.5,4,8.4,6,25,6,6.1
+U29387,41,Male,Student,iOS,6.1,2.7,2,5.7,8,22,1,4.4
+U29388,23,Female,Business Owner,Android,1.9,6.0,10,4.8,9,9,5,6.0
+U29389,51,Other,Freelancer,Android,9.0,2.7,10,4.1,3,10,2,11.2
+U29390,23,Female,Business Owner,iOS,1.0,6.0,5,6.1,2,51,5,13.8
+U29391,47,Female,Business Owner,Android,10.4,4.8,6,6.4,9,33,3,9.3
+U29392,52,Male,Business Owner,Android,5.8,4.5,4,5.9,1,7,2,4.2
+U29393,50,Female,Freelancer,iOS,2.7,2.2,8,8.8,3,47,4,13.3
+U29394,27,Male,Business Owner,Android,10.3,7.9,1,6.6,7,24,6,3.8
+U29395,36,Male,Freelancer,iOS,12.0,1.8,3,5.9,5,17,4,7.0
+U29396,27,Male,Business Owner,iOS,4.8,0.6,2,6.0,8,5,3,5.6
+U29397,42,Other,Student,Android,10.2,5.4,2,8.5,7,58,4,6.8
+U29398,41,Other,Business Owner,Android,5.5,6.1,9,8.7,3,12,5,9.4
+U29399,39,Female,Professional,Android,6.2,2.9,8,5.6,10,59,3,13.8
+U29400,54,Other,Freelancer,iOS,10.6,5.8,7,8.8,8,20,6,2.8
+U29401,37,Female,Student,iOS,8.7,1.9,5,8.9,8,60,6,4.5
+U29402,44,Female,Freelancer,Android,4.4,7.7,1,6.4,9,52,3,2.4
+U29403,57,Male,Freelancer,Android,10.7,5.0,6,6.9,2,9,0,7.8
+U29404,53,Female,Professional,iOS,8.1,8.0,6,6.3,8,46,0,13.3
+U29405,55,Male,Student,iOS,8.8,7.1,4,8.6,8,34,5,7.6
+U29406,19,Male,Student,iOS,6.1,7.3,7,7.6,3,41,1,12.7
+U29407,44,Male,Freelancer,Android,5.8,0.8,1,6.3,2,50,2,6.6
+U29408,27,Other,Professional,Android,4.5,3.8,3,5.8,2,16,3,2.3
+U29409,33,Female,Freelancer,iOS,3.4,6.7,7,5.9,6,21,1,10.9
+U29410,26,Female,Professional,iOS,6.3,6.1,2,8.4,7,39,1,13.7
+U29411,47,Female,Student,iOS,4.8,2.0,5,4.6,8,6,3,3.1
+U29412,27,Male,Student,iOS,11.6,7.5,4,4.2,2,37,3,5.8
+U29413,32,Male,Student,Android,8.8,0.8,2,4.9,7,60,5,12.0
+U29414,59,Female,Business Owner,iOS,11.4,6.1,9,6.0,8,39,1,3.5
+U29415,48,Female,Student,Android,1.8,0.8,1,8.2,9,11,4,6.4
+U29416,25,Other,Professional,Android,5.5,0.9,4,8.8,2,40,5,12.6
+U29417,46,Male,Professional,Android,9.8,4.7,9,7.4,7,41,5,12.2
+U29418,57,Male,Business Owner,Android,8.5,0.9,4,6.5,7,39,5,8.5
+U29419,50,Male,Student,iOS,10.1,3.2,2,6.0,9,14,0,2.6
+U29420,55,Female,Freelancer,iOS,12.0,1.4,7,8.4,2,59,5,7.2
+U29421,19,Male,Business Owner,Android,8.6,1.8,4,7.2,8,43,0,11.5
+U29422,27,Other,Professional,iOS,4.5,7.6,7,6.3,3,39,2,4.5
+U29423,28,Male,Professional,iOS,8.3,6.7,9,5.1,8,21,1,11.0
+U29424,32,Female,Business Owner,Android,6.9,2.7,1,7.8,10,6,3,10.8
+U29425,48,Other,Freelancer,Android,6.5,4.1,7,8.2,3,34,3,8.8
+U29426,54,Other,Freelancer,Android,9.1,3.8,8,5.8,1,29,3,12.5
+U29427,21,Other,Freelancer,iOS,5.0,4.0,5,7.7,3,35,4,4.3
+U29428,20,Male,Freelancer,iOS,11.4,6.0,4,4.4,8,48,6,12.5
+U29429,45,Male,Student,iOS,2.8,5.6,6,8.7,5,13,4,12.9
+U29430,38,Male,Professional,Android,8.2,4.5,4,4.8,6,24,3,5.0
+U29431,35,Other,Freelancer,iOS,9.0,6.5,5,7.9,8,51,4,2.3
+U29432,52,Male,Professional,iOS,4.3,0.6,9,5.0,1,7,5,7.2
+U29433,58,Other,Student,iOS,9.9,6.8,6,4.9,10,34,6,10.2
+U29434,58,Other,Freelancer,Android,8.0,3.6,10,6.1,4,6,6,14.0
+U29435,46,Male,Student,iOS,6.3,5.5,8,4.5,3,58,0,9.5
+U29436,21,Male,Business Owner,Android,9.0,7.7,8,8.6,7,25,2,10.6
+U29437,60,Male,Freelancer,iOS,1.4,2.1,3,5.0,5,50,4,12.8
+U29438,53,Other,Freelancer,iOS,7.2,1.2,7,8.8,1,46,2,3.8
+U29439,35,Female,Student,iOS,8.1,7.9,3,7.6,8,8,3,7.6
+U29440,47,Male,Business Owner,iOS,1.3,7.1,5,4.6,4,20,0,6.8
+U29441,46,Male,Professional,iOS,10.3,6.3,3,5.4,4,13,0,4.0
+U29442,55,Male,Freelancer,Android,10.3,5.4,9,7.7,1,13,0,9.2
+U29443,38,Female,Student,iOS,7.9,3.6,4,5.8,7,40,1,10.6
+U29444,34,Male,Student,iOS,7.3,4.5,1,6.2,2,29,6,4.6
+U29445,22,Other,Freelancer,Android,7.0,2.2,2,6.9,6,48,0,7.2
+U29446,58,Male,Student,iOS,2.0,1.4,4,6.1,3,31,6,7.4
+U29447,46,Female,Professional,Android,11.0,6.0,6,8.7,10,58,1,3.4
+U29448,44,Other,Professional,iOS,1.4,1.6,9,7.4,8,8,2,12.1
+U29449,49,Other,Business Owner,Android,1.6,2.2,10,8.0,9,26,0,9.2
+U29450,38,Male,Business Owner,Android,2.4,6.9,2,8.0,1,60,0,7.6
+U29451,38,Female,Freelancer,iOS,4.7,7.6,7,4.7,1,11,0,5.1
+U29452,30,Female,Student,iOS,10.2,6.9,10,5.6,4,51,0,12.8
+U29453,55,Other,Freelancer,iOS,8.9,4.9,7,8.2,8,13,0,3.9
+U29454,51,Other,Freelancer,iOS,7.0,1.3,9,8.2,6,33,4,8.5
+U29455,22,Female,Student,iOS,6.2,6.5,2,5.0,7,46,5,6.3
+U29456,52,Other,Professional,Android,7.1,7.0,3,5.2,5,53,4,2.9
+U29457,52,Male,Professional,Android,2.2,4.6,6,4.4,10,48,4,7.5
+U29458,57,Other,Student,Android,9.0,3.1,1,6.2,4,35,3,5.4
+U29459,20,Female,Student,iOS,3.7,0.5,8,6.5,6,29,1,8.1
+U29460,46,Female,Student,iOS,2.1,5.7,8,8.9,2,57,3,14.0
+U29461,31,Male,Student,iOS,2.8,6.3,2,5.5,6,40,6,9.5
+U29462,47,Male,Student,Android,4.6,6.8,7,6.5,8,25,5,13.2
+U29463,50,Male,Student,Android,2.1,3.9,7,6.6,7,5,2,13.0
+U29464,22,Male,Professional,Android,9.6,0.5,1,8.1,7,33,4,10.3
+U29465,40,Other,Student,iOS,7.7,2.7,10,6.5,3,34,1,7.5
+U29466,55,Female,Freelancer,Android,7.8,5.1,5,4.3,1,51,2,11.8
+U29467,22,Female,Professional,Android,4.9,1.0,4,4.5,6,44,2,6.2
+U29468,38,Other,Student,Android,1.9,1.4,6,8.9,9,35,6,6.3
+U29469,49,Other,Student,iOS,7.9,3.5,8,9.0,6,48,2,5.7
+U29470,56,Other,Student,iOS,4.4,7.2,5,8.1,1,38,4,11.9
+U29471,21,Female,Student,iOS,7.6,6.2,7,5.8,2,46,3,10.1
+U29472,53,Female,Business Owner,Android,10.7,3.6,8,8.0,8,25,1,6.8
+U29473,55,Other,Freelancer,Android,11.1,7.1,1,5.0,10,34,6,10.5
+U29474,37,Other,Business Owner,iOS,10.0,1.2,3,4.6,8,5,3,9.5
+U29475,41,Female,Freelancer,iOS,9.1,7.4,8,8.8,5,49,3,8.0
+U29476,50,Other,Freelancer,Android,6.7,5.1,7,7.4,9,44,1,7.0
+U29477,56,Female,Business Owner,Android,9.8,6.1,3,5.2,7,19,2,5.5
+U29478,58,Male,Professional,iOS,2.1,7.0,1,8.1,6,35,3,4.9
+U29479,42,Female,Freelancer,Android,11.2,6.9,2,7.2,9,24,3,6.4
+U29480,28,Other,Freelancer,Android,3.2,7.1,6,8.5,8,37,2,7.4
+U29481,43,Female,Business Owner,iOS,1.4,4.2,5,4.6,8,46,3,7.3
+U29482,53,Female,Business Owner,Android,2.9,5.6,6,6.2,3,22,0,3.2
+U29483,31,Female,Student,iOS,10.6,7.2,9,7.8,2,19,0,8.0
+U29484,50,Other,Professional,iOS,11.4,7.8,2,8.9,8,37,6,2.1
+U29485,34,Male,Business Owner,Android,10.5,0.8,5,8.5,5,5,4,9.9
+U29486,53,Other,Business Owner,Android,5.4,3.1,10,6.4,7,52,0,8.7
+U29487,50,Female,Business Owner,iOS,2.2,6.1,7,4.1,2,60,3,8.7
+U29488,46,Female,Business Owner,Android,9.4,1.0,6,8.9,7,48,2,12.5
+U29489,44,Female,Professional,iOS,5.9,5.4,10,4.9,2,39,1,9.2
+U29490,31,Male,Business Owner,iOS,11.9,4.1,4,7.2,6,25,0,11.7
+U29491,51,Female,Student,Android,6.1,1.5,2,4.3,4,50,0,9.6
+U29492,19,Male,Student,iOS,6.8,6.4,9,5.0,8,53,1,9.9
+U29493,27,Male,Business Owner,Android,4.4,5.7,1,7.9,9,11,1,3.4
+U29494,19,Male,Business Owner,Android,8.4,4.0,6,4.8,5,8,5,3.0
+U29495,48,Male,Freelancer,iOS,3.6,4.8,6,6.7,1,27,6,13.0
+U29496,43,Male,Professional,iOS,6.0,2.8,9,8.3,7,9,3,4.1
+U29497,23,Male,Business Owner,iOS,4.1,6.4,6,6.9,9,46,5,7.1
+U29498,27,Other,Business Owner,iOS,8.1,0.5,1,5.0,1,17,5,5.8
+U29499,33,Male,Professional,iOS,7.3,3.4,1,6.3,5,6,6,7.1
+U29500,55,Female,Business Owner,iOS,8.9,3.1,7,8.3,7,5,0,13.7
+U29501,43,Female,Student,Android,7.5,4.0,9,7.6,9,24,5,5.9
+U29502,24,Male,Business Owner,Android,8.2,7.0,2,6.0,3,55,2,12.3
+U29503,29,Female,Freelancer,Android,2.3,7.0,9,5.5,9,31,3,8.4
+U29504,25,Other,Business Owner,Android,8.8,5.6,3,7.2,8,49,2,12.6
+U29505,58,Female,Professional,Android,9.1,6.9,4,4.3,4,60,2,6.7
+U29506,60,Male,Professional,Android,2.8,1.8,9,8.8,3,15,3,9.2
+U29507,56,Male,Student,iOS,9.1,3.3,9,5.5,4,46,6,11.6
+U29508,19,Female,Business Owner,Android,8.2,5.3,3,4.2,10,12,3,5.3
+U29509,58,Other,Business Owner,iOS,5.8,7.0,7,7.5,1,48,6,14.0
+U29510,39,Male,Professional,iOS,3.6,7.6,9,5.6,5,45,2,11.9
+U29511,23,Female,Business Owner,iOS,9.0,5.9,9,4.7,1,49,0,13.8
+U29512,53,Male,Business Owner,Android,10.1,2.9,1,6.2,6,57,3,13.0
+U29513,52,Other,Freelancer,iOS,9.6,5.4,7,6.3,10,52,6,6.5
+U29514,24,Other,Freelancer,Android,8.0,3.7,9,8.6,6,53,1,4.0
+U29515,27,Male,Freelancer,iOS,9.1,1.8,10,7.6,1,30,1,6.6
+U29516,54,Male,Professional,iOS,8.9,5.1,2,7.1,4,23,4,9.1
+U29517,59,Male,Student,Android,8.5,0.7,1,6.8,1,21,2,11.1
+U29518,52,Other,Business Owner,Android,5.7,1.7,10,4.8,7,42,2,11.7
+U29519,51,Other,Professional,iOS,1.5,7.1,2,5.3,9,34,3,5.9
+U29520,59,Other,Professional,Android,8.1,7.1,6,8.4,3,56,0,5.5
+U29521,42,Male,Business Owner,iOS,1.9,7.9,3,7.6,8,53,1,8.2
+U29522,59,Other,Freelancer,Android,9.4,4.2,3,7.5,3,22,1,3.3
+U29523,24,Female,Business Owner,Android,1.4,7.8,8,6.2,3,15,1,5.3
+U29524,50,Male,Freelancer,Android,8.3,3.5,2,8.2,1,45,2,2.2
+U29525,26,Male,Business Owner,Android,8.4,0.7,7,6.2,8,30,2,7.7
+U29526,19,Male,Business Owner,Android,6.9,3.2,4,5.6,6,42,3,2.3
+U29527,59,Male,Business Owner,Android,8.0,1.7,6,8.4,9,25,3,8.7
+U29528,49,Male,Student,iOS,3.1,2.4,10,4.3,5,18,0,4.4
+U29529,18,Other,Professional,Android,9.6,6.0,9,5.4,3,11,5,8.2
+U29530,43,Female,Freelancer,iOS,11.8,4.2,4,8.3,2,7,1,2.2
+U29531,42,Male,Student,iOS,4.1,1.8,6,4.8,5,51,1,10.1
+U29532,56,Male,Professional,Android,1.7,1.6,5,5.3,5,20,4,13.4
+U29533,20,Female,Professional,iOS,7.3,3.3,6,7.4,10,44,4,4.3
+U29534,25,Other,Freelancer,iOS,7.5,4.1,1,5.6,10,27,0,5.3
+U29535,21,Other,Student,iOS,1.8,4.4,8,5.3,3,47,6,10.1
+U29536,47,Other,Student,iOS,8.2,1.3,3,5.1,7,21,3,11.5
+U29537,55,Male,Student,Android,11.9,4.6,9,7.4,8,10,1,7.2
+U29538,26,Other,Professional,iOS,8.1,7.0,8,7.9,4,49,2,5.0
+U29539,32,Female,Student,Android,3.0,6.0,9,6.8,9,48,2,7.6
+U29540,48,Other,Student,iOS,11.0,4.4,2,5.2,8,46,4,9.4
+U29541,27,Other,Professional,iOS,11.8,5.7,3,8.7,10,37,3,2.2
+U29542,55,Female,Business Owner,Android,2.1,1.1,9,5.9,1,42,2,4.5
+U29543,53,Male,Student,Android,11.6,2.9,10,6.4,7,27,4,11.9
+U29544,27,Female,Student,iOS,10.2,1.3,4,6.2,1,24,6,10.4
+U29545,42,Female,Freelancer,Android,4.5,6.6,8,6.9,10,9,3,11.6
+U29546,53,Female,Business Owner,iOS,4.0,3.7,4,5.8,4,60,6,9.9
+U29547,56,Female,Professional,iOS,9.2,1.9,2,7.6,6,19,2,11.2
+U29548,32,Female,Freelancer,iOS,5.2,3.1,10,6.3,4,22,2,3.9
+U29549,32,Other,Student,iOS,5.2,5.8,1,7.5,1,16,3,2.9
+U29550,35,Male,Professional,Android,2.1,2.0,2,8.5,10,30,2,13.2
+U29551,50,Female,Business Owner,Android,5.0,1.3,5,4.5,6,6,5,4.2
+U29552,60,Male,Freelancer,Android,8.3,1.2,1,6.3,7,12,4,13.0
+U29553,45,Female,Student,iOS,10.3,0.8,6,6.9,6,15,2,4.1
+U29554,60,Male,Freelancer,iOS,2.9,3.9,9,4.5,9,7,5,7.8
+U29555,37,Other,Student,Android,2.4,7.2,5,9.0,7,22,5,9.0
+U29556,56,Female,Business Owner,iOS,7.6,2.0,1,6.8,6,47,0,8.3
+U29557,47,Other,Professional,Android,11.5,3.3,8,8.5,3,21,6,13.1
+U29558,20,Male,Student,Android,2.2,6.8,1,4.7,7,13,0,12.4
+U29559,33,Other,Freelancer,iOS,1.7,2.8,8,5.7,4,13,3,3.7
+U29560,38,Other,Business Owner,Android,4.5,1.1,7,6.3,1,14,1,6.4
+U29561,20,Female,Business Owner,Android,10.3,5.9,9,5.6,2,52,1,4.0
+U29562,44,Male,Freelancer,Android,9.2,5.2,4,5.4,1,51,4,11.2
+U29563,49,Female,Student,iOS,5.8,6.4,1,4.9,7,22,0,9.2
+U29564,38,Other,Professional,Android,6.2,6.2,3,8.9,2,37,6,13.4
+U29565,47,Female,Freelancer,iOS,10.3,3.8,6,8.6,8,42,1,2.8
+U29566,50,Male,Student,iOS,11.5,3.4,7,7.1,4,7,6,6.7
+U29567,57,Female,Business Owner,Android,11.7,4.6,2,8.8,4,33,2,4.4
+U29568,44,Male,Business Owner,iOS,4.3,5.5,10,8.8,2,48,2,6.3
+U29569,51,Female,Student,Android,11.8,4.1,5,7.5,1,26,2,11.0
+U29570,32,Male,Business Owner,iOS,4.2,2.2,5,8.6,7,7,6,2.7
+U29571,30,Female,Freelancer,Android,11.7,2.1,3,4.6,8,53,2,12.3
+U29572,39,Female,Business Owner,Android,4.3,3.9,4,5.2,9,37,5,9.4
+U29573,40,Other,Business Owner,Android,3.2,2.9,4,4.8,9,44,0,5.9
+U29574,46,Female,Professional,Android,4.2,6.9,2,7.7,7,48,0,9.0
+U29575,18,Female,Business Owner,Android,8.8,5.5,8,7.4,5,58,1,13.1
+U29576,49,Other,Student,Android,3.3,7.2,2,5.2,9,22,5,3.4
+U29577,46,Male,Professional,Android,9.5,5.6,2,6.9,5,45,1,6.6
+U29578,33,Male,Business Owner,Android,10.2,7.6,1,6.2,6,39,6,9.4
+U29579,24,Male,Freelancer,iOS,2.9,4.6,4,5.6,7,11,4,9.3
+U29580,28,Other,Student,Android,9.8,7.2,1,6.6,7,21,1,4.2
+U29581,60,Other,Business Owner,iOS,5.4,7.7,3,4.6,4,35,0,5.2
+U29582,31,Other,Freelancer,iOS,7.6,6.7,10,5.8,9,19,6,2.6
+U29583,24,Female,Freelancer,iOS,2.4,7.0,7,8.3,8,10,5,5.0
+U29584,38,Female,Freelancer,iOS,1.8,1.2,7,5.0,5,52,5,9.4
+U29585,39,Female,Professional,Android,9.5,7.4,4,8.3,10,36,6,6.6
+U29586,39,Female,Professional,iOS,10.9,4.1,3,8.0,7,18,6,4.3
+U29587,58,Male,Freelancer,Android,7.6,1.7,9,7.2,6,25,6,10.3
+U29588,20,Male,Freelancer,Android,6.9,4.3,8,7.8,7,33,0,12.5
+U29589,38,Other,Student,iOS,9.1,5.2,5,6.9,10,27,0,12.6
+U29590,46,Female,Freelancer,Android,4.0,5.2,5,4.9,7,54,5,3.2
+U29591,20,Female,Professional,iOS,1.2,3.8,10,4.9,10,35,2,4.8
+U29592,40,Other,Professional,Android,11.5,2.9,8,6.2,4,12,5,13.7
+U29593,26,Male,Business Owner,iOS,4.2,7.5,8,5.1,5,20,4,6.9
+U29594,59,Other,Freelancer,iOS,6.8,2.7,2,8.1,8,34,5,3.5
+U29595,23,Male,Student,Android,10.1,3.1,2,4.2,8,47,4,10.1
+U29596,51,Other,Freelancer,iOS,9.1,1.9,5,8.8,7,56,0,9.1
+U29597,48,Male,Business Owner,Android,7.4,2.2,6,4.5,7,17,1,4.5
+U29598,57,Female,Professional,Android,10.1,2.8,9,7.5,5,25,2,7.9
+U29599,56,Male,Student,Android,8.3,6.1,7,5.0,1,43,2,12.1
+U29600,32,Other,Professional,iOS,6.4,3.8,8,7.8,2,54,5,10.5
+U29601,51,Male,Professional,iOS,3.8,7.5,1,4.1,7,56,1,9.2
+U29602,35,Female,Business Owner,iOS,2.9,7.4,9,5.7,6,47,4,2.2
+U29603,35,Other,Freelancer,Android,5.3,4.5,3,4.4,5,42,1,6.9
+U29604,34,Male,Business Owner,iOS,1.4,5.4,9,4.7,3,31,1,5.6
+U29605,20,Female,Business Owner,iOS,5.6,6.4,2,6.4,1,57,3,8.5
+U29606,37,Male,Freelancer,iOS,1.0,5.8,7,7.9,1,32,0,7.9
+U29607,41,Female,Business Owner,Android,9.7,0.6,5,5.0,2,25,3,11.4
+U29608,50,Male,Business Owner,Android,1.4,3.9,7,4.6,3,7,6,10.0
+U29609,52,Other,Professional,Android,1.6,5.1,7,5.0,4,27,6,6.1
+U29610,31,Female,Professional,Android,7.8,7.7,7,7.8,10,8,3,13.1
+U29611,24,Other,Freelancer,Android,7.4,7.1,6,8.0,9,28,2,2.1
+U29612,22,Female,Professional,Android,2.8,1.3,3,5.6,1,19,3,2.7
+U29613,37,Male,Freelancer,iOS,9.2,6.9,5,6.7,3,29,4,10.8
+U29614,22,Male,Business Owner,Android,1.8,0.8,2,7.6,10,39,1,4.2
+U29615,37,Female,Freelancer,iOS,7.7,7.4,5,5.9,2,60,3,3.0
+U29616,48,Other,Professional,iOS,3.6,1.9,4,6.3,10,30,0,9.6
+U29617,21,Other,Professional,iOS,8.7,7.7,7,8.0,4,16,6,5.7
+U29618,59,Female,Business Owner,iOS,10.8,2.6,3,4.0,4,43,0,3.9
+U29619,24,Female,Business Owner,Android,5.1,7.3,2,4.7,4,48,0,10.4
+U29620,27,Female,Professional,iOS,2.2,1.6,7,8.3,3,44,0,5.2
+U29621,32,Male,Student,Android,2.1,5.8,2,8.0,4,21,6,14.0
+U29622,59,Other,Student,iOS,6.3,5.2,4,6.9,1,56,0,6.9
+U29623,38,Female,Student,Android,11.4,7.5,3,7.5,8,34,5,2.5
+U29624,21,Female,Professional,iOS,7.7,5.4,6,6.4,2,21,1,11.2
+U29625,30,Other,Professional,Android,10.8,3.2,2,5.4,3,60,2,8.5
+U29626,43,Female,Freelancer,Android,11.1,4.9,4,6.9,5,11,6,9.2
+U29627,52,Female,Professional,Android,11.9,3.1,1,5.8,4,51,1,5.8
+U29628,46,Other,Freelancer,Android,9.1,1.1,9,5.0,5,53,2,6.2
+U29629,25,Female,Freelancer,iOS,1.1,6.8,4,6.4,6,32,0,2.2
+U29630,38,Other,Professional,iOS,3.8,7.1,6,6.6,3,18,2,4.9
+U29631,58,Female,Freelancer,iOS,8.5,5.6,1,6.8,5,23,1,8.9
+U29632,43,Female,Freelancer,iOS,1.2,3.9,9,7.8,10,25,3,2.8
+U29633,52,Other,Freelancer,Android,10.7,3.4,9,5.3,9,33,5,8.0
+U29634,56,Other,Professional,iOS,7.7,4.5,4,4.7,4,8,3,9.9
+U29635,22,Other,Business Owner,iOS,10.9,3.3,10,4.2,4,14,6,9.9
+U29636,20,Female,Freelancer,Android,8.3,4.4,1,7.0,7,51,0,4.0
+U29637,55,Female,Business Owner,iOS,10.1,4.6,7,5.7,3,53,3,6.7
+U29638,58,Female,Freelancer,Android,11.1,5.0,7,7.2,1,60,1,4.5
+U29639,46,Female,Business Owner,Android,5.4,3.1,5,6.6,10,50,4,5.0
+U29640,46,Female,Professional,iOS,11.1,1.4,5,7.2,2,23,4,13.0
+U29641,57,Male,Professional,Android,4.7,5.9,1,6.7,2,18,2,7.5
+U29642,46,Male,Business Owner,Android,10.7,7.8,4,6.5,3,43,1,2.9
+U29643,52,Male,Student,Android,11.9,6.6,1,5.6,4,27,0,3.9
+U29644,21,Female,Professional,iOS,8.0,6.9,9,6.0,8,36,5,2.4
+U29645,27,Male,Student,Android,8.3,1.0,7,8.0,6,16,4,13.2
+U29646,32,Male,Student,iOS,7.6,6.8,10,8.2,8,50,0,8.2
+U29647,58,Male,Business Owner,Android,8.6,3.7,2,6.5,10,33,5,3.8
+U29648,37,Other,Student,Android,7.5,7.3,2,4.9,8,36,4,3.7
+U29649,58,Female,Professional,Android,11.7,4.3,9,7.4,3,43,1,8.1
+U29650,35,Male,Freelancer,iOS,8.5,5.3,6,9.0,10,42,3,7.9
+U29651,40,Male,Student,iOS,1.3,3.4,6,6.7,4,40,5,13.5
+U29652,45,Other,Business Owner,iOS,4.8,1.5,10,8.7,7,41,4,6.0
+U29653,50,Male,Business Owner,Android,10.5,5.6,7,4.9,10,36,0,13.0
+U29654,36,Female,Freelancer,iOS,1.4,6.2,7,5.3,3,56,6,11.5
+U29655,34,Male,Student,Android,5.0,8.0,3,6.6,1,28,1,12.5
+U29656,44,Other,Freelancer,Android,9.8,3.9,2,5.8,7,21,5,8.5
+U29657,48,Male,Business Owner,iOS,4.0,5.1,5,4.0,8,30,3,10.2
+U29658,54,Female,Student,Android,10.2,6.7,8,5.0,7,29,0,8.9
+U29659,36,Male,Business Owner,iOS,10.0,2.5,4,4.6,2,5,5,13.0
+U29660,19,Female,Student,Android,10.3,5.1,10,6.1,9,16,4,4.5
+U29661,32,Female,Student,Android,1.9,0.7,4,6.0,10,16,0,13.2
+U29662,45,Male,Freelancer,Android,9.4,1.1,6,7.0,7,6,6,6.2
+U29663,45,Other,Freelancer,iOS,10.1,2.2,1,4.4,10,53,0,11.0
+U29664,37,Other,Freelancer,Android,7.6,7.4,6,6.4,9,57,6,12.9
+U29665,19,Female,Freelancer,Android,8.7,5.7,1,7.0,7,50,5,5.3
+U29666,22,Male,Student,iOS,5.2,3.3,9,6.7,8,18,1,4.0
+U29667,45,Male,Business Owner,Android,8.6,7.6,1,8.2,10,57,3,9.3
+U29668,31,Male,Freelancer,Android,6.5,2.2,5,6.3,2,32,4,7.8
+U29669,26,Male,Professional,iOS,5.3,7.6,10,6.4,9,36,1,12.9
+U29670,57,Other,Freelancer,Android,5.0,4.2,4,7.0,4,13,3,9.9
+U29671,38,Male,Business Owner,Android,8.2,6.6,2,7.8,7,31,0,9.4
+U29672,48,Female,Business Owner,iOS,11.5,0.8,2,7.1,8,6,3,8.7
+U29673,31,Male,Student,iOS,6.0,6.6,6,6.3,9,8,6,7.0
+U29674,49,Male,Professional,iOS,5.8,6.9,7,7.4,7,50,4,7.1
+U29675,50,Male,Business Owner,iOS,1.0,4.7,1,8.2,5,16,1,9.8
+U29676,60,Other,Professional,iOS,2.1,2.6,10,6.9,3,26,2,6.5
+U29677,31,Female,Freelancer,iOS,6.5,2.0,8,8.3,2,19,1,4.8
+U29678,25,Male,Student,Android,9.1,4.0,2,8.7,7,10,1,6.7
+U29679,40,Female,Business Owner,Android,10.9,2.0,7,6.4,7,8,1,5.2
+U29680,55,Male,Professional,iOS,5.1,7.5,2,5.0,6,18,6,12.5
+U29681,49,Male,Business Owner,iOS,8.3,6.7,1,6.0,7,46,3,10.7
+U29682,41,Male,Business Owner,iOS,1.1,4.4,4,6.4,10,46,1,4.9
+U29683,46,Other,Professional,Android,3.6,6.1,2,7.4,5,26,6,12.9
+U29684,28,Male,Professional,Android,9.4,6.8,3,5.6,9,29,6,3.4
+U29685,56,Female,Business Owner,Android,9.9,2.2,2,5.7,5,24,3,10.4
+U29686,60,Male,Business Owner,Android,7.6,2.7,9,7.2,7,24,6,13.2
+U29687,27,Other,Student,iOS,6.4,5.2,8,5.4,4,26,4,6.7
+U29688,60,Other,Student,Android,1.2,4.4,7,4.7,7,47,0,3.4
+U29689,46,Other,Business Owner,Android,3.3,5.0,2,7.5,3,57,0,9.3
+U29690,32,Other,Business Owner,Android,2.1,1.3,4,8.0,1,48,4,9.7
+U29691,24,Female,Student,Android,1.6,1.3,5,5.3,10,38,0,3.3
+U29692,50,Female,Professional,Android,3.1,2.5,1,5.2,7,22,0,10.8
+U29693,43,Female,Student,iOS,2.5,6.6,6,5.9,4,52,0,6.5
+U29694,53,Other,Student,Android,1.9,5.1,9,6.0,3,37,6,9.6
+U29695,31,Other,Business Owner,iOS,6.1,6.5,4,7.5,8,32,5,2.9
+U29696,20,Female,Freelancer,Android,2.9,1.7,1,8.0,1,59,0,2.2
+U29697,26,Male,Student,iOS,2.0,5.9,8,5.0,3,60,3,4.9
+U29698,54,Female,Student,Android,3.5,4.6,3,5.6,3,56,1,2.3
+U29699,23,Male,Freelancer,iOS,8.6,7.6,2,5.0,4,40,0,7.9
+U29700,39,Other,Professional,iOS,7.0,6.5,5,8.0,2,60,6,6.2
+U29701,53,Other,Professional,iOS,11.1,5.7,2,6.3,8,46,6,6.8
+U29702,41,Male,Professional,iOS,5.9,0.6,9,6.7,6,44,4,8.6
+U29703,60,Female,Business Owner,iOS,6.9,0.6,10,4.4,1,7,4,3.1
+U29704,37,Male,Student,Android,3.7,5.2,10,5.7,1,25,3,3.2
+U29705,59,Male,Business Owner,Android,6.4,3.1,3,7.6,3,30,0,7.5
+U29706,28,Male,Professional,iOS,5.8,4.5,1,7.3,6,37,0,5.6
+U29707,32,Other,Professional,Android,7.9,7.4,6,8.2,8,35,2,8.3
+U29708,32,Other,Business Owner,Android,11.4,6.6,7,8.6,8,31,2,12.4
+U29709,29,Female,Business Owner,Android,6.7,3.8,9,6.5,8,25,6,9.2
+U29710,37,Male,Business Owner,Android,9.5,3.6,5,7.6,9,10,4,7.8
+U29711,23,Female,Student,iOS,7.9,6.9,8,7.2,2,29,5,2.8
+U29712,42,Female,Student,iOS,7.6,2.6,6,5.6,4,54,2,10.7
+U29713,41,Male,Student,Android,1.6,7.3,8,8.2,1,37,4,11.1
+U29714,22,Other,Student,iOS,4.6,4.4,1,8.6,7,50,5,3.8
+U29715,53,Male,Student,iOS,3.4,5.4,8,8.3,10,56,5,7.7
+U29716,40,Female,Business Owner,iOS,8.0,6.9,8,7.4,2,6,1,7.1
+U29717,58,Other,Professional,Android,5.8,5.2,9,7.1,8,55,1,4.5
+U29718,34,Male,Business Owner,Android,11.3,0.8,7,5.0,4,32,1,6.7
+U29719,52,Other,Student,iOS,2.3,1.1,1,8.5,5,28,5,2.2
+U29720,33,Female,Student,iOS,8.9,5.5,3,4.7,4,20,0,7.6
+U29721,55,Female,Freelancer,iOS,3.6,4.0,9,4.5,10,39,1,2.8
+U29722,45,Female,Professional,Android,6.2,1.8,3,6.7,1,49,6,4.3
+U29723,42,Other,Freelancer,Android,5.6,2.8,6,4.1,8,30,3,7.6
+U29724,19,Female,Professional,Android,6.3,5.7,1,5.7,6,48,2,2.6
+U29725,47,Other,Professional,iOS,11.2,5.1,5,6.2,2,11,4,13.5
+U29726,31,Other,Freelancer,Android,6.5,1.4,8,8.6,5,27,2,7.0
+U29727,37,Female,Student,iOS,11.3,3.8,6,8.6,10,24,1,11.0
+U29728,36,Male,Student,Android,7.0,4.3,2,5.7,6,21,5,4.3
+U29729,42,Other,Professional,iOS,5.1,1.5,4,5.0,3,60,1,10.9
+U29730,48,Other,Professional,iOS,2.3,5.1,9,4.6,5,59,3,2.5
+U29731,34,Female,Student,iOS,6.5,2.2,10,8.0,3,54,4,11.6
+U29732,42,Male,Freelancer,Android,7.1,5.5,5,5.4,8,54,5,3.2
+U29733,29,Female,Business Owner,iOS,11.4,8.0,4,5.8,3,25,1,8.0
+U29734,25,Other,Professional,Android,6.6,4.4,2,7.0,7,55,0,2.3
+U29735,40,Female,Freelancer,iOS,2.3,1.0,9,6.6,2,22,5,2.3
+U29736,58,Male,Student,Android,7.2,3.4,6,7.6,10,32,3,3.6
+U29737,54,Female,Student,Android,8.6,7.3,7,4.9,3,34,5,8.3
+U29738,40,Female,Student,Android,8.7,6.7,1,6.0,8,12,4,9.6
+U29739,52,Other,Professional,Android,7.1,6.7,3,8.6,1,5,5,7.8
+U29740,36,Other,Professional,iOS,7.9,0.6,5,7.0,9,57,4,10.8
+U29741,59,Other,Student,iOS,7.1,5.5,4,5.9,5,11,4,7.2
+U29742,23,Other,Freelancer,iOS,5.1,2.3,4,8.5,5,50,3,6.6
+U29743,58,Female,Freelancer,Android,3.0,2.6,5,6.7,1,27,0,4.1
+U29744,49,Male,Business Owner,Android,9.9,3.5,2,4.7,8,18,4,4.4
+U29745,35,Female,Professional,iOS,9.2,6.6,3,5.7,9,50,1,9.5
+U29746,57,Female,Professional,Android,5.9,0.9,7,8.8,8,58,6,9.3
+U29747,25,Male,Business Owner,Android,8.7,6.6,9,4.3,2,25,4,3.4
+U29748,45,Female,Student,iOS,4.1,7.5,4,7.3,1,60,4,8.2
+U29749,22,Male,Business Owner,iOS,9.3,1.9,6,6.2,6,25,3,7.8
+U29750,46,Female,Student,iOS,2.3,7.5,3,4.0,2,43,1,13.9
+U29751,18,Male,Business Owner,iOS,4.6,1.2,10,6.0,6,55,0,12.5
+U29752,39,Female,Student,Android,4.1,0.8,6,5.3,1,13,5,13.9
+U29753,18,Male,Freelancer,iOS,3.0,2.4,6,7.1,7,51,0,9.8
+U29754,28,Other,Freelancer,Android,9.1,2.5,5,5.9,6,28,0,9.8
+U29755,28,Female,Professional,iOS,10.8,7.5,7,6.9,5,34,4,9.5
+U29756,22,Male,Professional,iOS,7.7,7.2,6,6.4,8,23,2,2.8
+U29757,50,Female,Professional,Android,4.5,1.9,6,5.8,8,10,0,12.2
+U29758,60,Male,Professional,Android,9.4,5.8,2,6.0,1,11,1,5.6
+U29759,24,Male,Business Owner,iOS,3.5,0.8,7,4.1,7,41,4,13.3
+U29760,43,Other,Student,iOS,3.5,4.4,2,4.5,3,9,3,13.0
+U29761,54,Other,Professional,iOS,11.4,6.6,3,4.6,4,7,0,5.4
+U29762,53,Female,Student,Android,11.0,7.9,8,5.4,10,19,1,2.6
+U29763,22,Other,Freelancer,iOS,11.2,1.6,5,4.8,8,48,2,8.7
+U29764,59,Female,Student,iOS,11.3,4.8,4,4.1,5,40,5,10.6
+U29765,36,Other,Student,Android,8.5,4.1,9,8.1,2,37,0,9.4
+U29766,24,Male,Business Owner,iOS,2.4,0.6,9,7.5,9,43,4,6.1
+U29767,32,Female,Student,Android,8.2,6.7,5,7.1,6,53,5,10.9
+U29768,37,Female,Student,iOS,9.2,5.1,5,7.9,4,19,6,11.4
+U29769,35,Other,Student,iOS,7.3,0.9,4,6.5,5,36,0,3.4
+U29770,60,Male,Freelancer,Android,3.8,5.4,4,7.8,1,31,2,4.5
+U29771,48,Female,Freelancer,iOS,8.0,2.2,2,8.6,3,13,3,12.1
+U29772,42,Female,Freelancer,iOS,8.5,1.5,6,8.1,4,38,3,7.9
+U29773,21,Other,Student,Android,7.6,5.7,5,7.1,5,30,2,12.6
+U29774,55,Male,Freelancer,Android,2.6,7.1,5,5.9,5,40,6,13.3
+U29775,34,Female,Business Owner,Android,2.2,2.1,7,5.6,3,9,3,10.2
+U29776,53,Other,Student,Android,1.6,7.0,10,6.1,3,60,0,2.5
+U29777,31,Other,Professional,Android,8.9,4.8,5,4.5,8,33,1,13.3
+U29778,49,Male,Business Owner,iOS,9.9,7.3,3,4.4,10,31,0,7.9
+U29779,46,Other,Professional,Android,8.7,7.8,3,8.2,7,32,1,7.4
+U29780,36,Other,Student,iOS,1.1,3.2,6,4.7,6,52,3,12.2
+U29781,19,Female,Freelancer,Android,1.0,3.7,1,7.0,7,34,6,9.9
+U29782,26,Other,Student,iOS,10.5,4.8,9,4.2,9,30,0,8.8
+U29783,55,Male,Professional,iOS,1.3,1.3,7,8.4,6,25,2,6.7
+U29784,26,Male,Freelancer,iOS,9.9,4.8,5,8.8,3,31,2,2.1
+U29785,52,Female,Freelancer,Android,2.1,1.4,1,6.7,10,35,5,8.6
+U29786,43,Female,Business Owner,Android,9.3,0.6,1,4.3,1,43,1,11.7
+U29787,36,Other,Student,iOS,8.1,6.8,6,8.8,7,14,0,2.5
+U29788,60,Female,Business Owner,iOS,2.0,3.6,8,6.5,1,40,4,7.8
+U29789,58,Other,Freelancer,iOS,9.4,3.2,1,7.3,8,27,3,8.2
+U29790,33,Other,Student,iOS,2.2,1.2,10,7.2,2,33,3,11.5
+U29791,30,Male,Professional,Android,6.0,7.7,9,5.7,5,56,4,6.0
+U29792,19,Male,Professional,Android,4.3,6.4,6,7.8,5,17,6,9.7
+U29793,27,Female,Business Owner,iOS,11.7,7.6,5,5.2,10,41,5,3.3
+U29794,45,Female,Freelancer,iOS,9.5,7.9,1,6.1,10,18,0,11.1
+U29795,58,Male,Freelancer,Android,6.1,0.8,9,8.6,10,32,1,13.0
+U29796,40,Other,Professional,iOS,6.9,0.9,9,6.1,7,25,4,12.6
+U29797,19,Other,Student,Android,9.2,2.4,9,6.0,3,40,6,12.8
+U29798,54,Male,Freelancer,Android,10.8,5.8,6,8.7,3,18,4,12.7
+U29799,59,Female,Freelancer,Android,1.5,0.9,9,6.4,7,11,2,11.4
+U29800,55,Male,Student,iOS,1.9,1.4,2,6.4,10,18,4,13.0
+U29801,42,Other,Professional,iOS,10.8,0.7,7,8.1,6,49,1,4.6
+U29802,29,Female,Business Owner,Android,7.5,4.6,5,7.9,5,46,5,11.0
+U29803,25,Other,Business Owner,Android,11.4,2.6,2,6.7,1,34,1,3.1
+U29804,53,Female,Student,iOS,5.3,6.1,3,8.5,5,47,4,4.8
+U29805,30,Female,Professional,iOS,3.8,7.4,5,5.3,8,51,4,3.8
+U29806,44,Female,Business Owner,iOS,7.1,6.4,1,6.9,7,11,2,10.6
+U29807,42,Female,Business Owner,iOS,8.8,4.2,3,5.7,2,10,3,13.4
+U29808,46,Male,Student,Android,11.3,5.3,6,7.4,9,40,6,3.7
+U29809,47,Other,Freelancer,iOS,1.1,7.7,10,6.7,9,27,3,8.2
+U29810,25,Female,Freelancer,iOS,4.4,5.7,9,7.6,9,60,3,11.1
+U29811,56,Other,Student,iOS,11.9,7.5,6,5.3,9,10,2,10.7
+U29812,42,Other,Professional,iOS,7.7,2.9,4,4.9,9,9,0,3.9
+U29813,44,Other,Freelancer,iOS,1.4,3.8,7,8.7,3,35,4,13.9
+U29814,44,Male,Student,iOS,7.9,1.1,6,4.4,7,42,5,4.3
+U29815,45,Other,Professional,Android,3.0,0.7,9,4.7,2,44,4,12.1
+U29816,22,Female,Student,Android,3.4,6.3,6,6.6,1,59,4,5.8
+U29817,18,Female,Business Owner,iOS,3.2,5.6,5,5.0,4,50,3,6.2
+U29818,26,Male,Professional,iOS,3.2,2.4,7,8.2,4,57,5,7.9
+U29819,38,Female,Professional,iOS,11.4,4.2,6,7.5,10,60,3,9.2
+U29820,43,Male,Business Owner,iOS,2.0,7.6,4,8.5,2,6,0,4.8
+U29821,33,Female,Professional,iOS,1.6,2.6,8,5.7,7,38,0,3.8
+U29822,35,Female,Professional,Android,4.5,1.7,4,6.9,9,20,5,6.7
+U29823,29,Female,Business Owner,iOS,6.9,4.9,10,4.2,1,38,1,10.6
+U29824,20,Other,Professional,iOS,2.7,1.7,3,4.4,5,39,5,13.6
+U29825,26,Other,Student,iOS,6.7,3.4,5,5.3,6,24,3,12.1
+U29826,26,Male,Freelancer,Android,9.9,1.4,2,6.8,2,18,2,3.6
+U29827,26,Other,Freelancer,iOS,11.7,1.3,7,7.8,3,36,6,8.7
+U29828,32,Other,Business Owner,Android,2.5,6.7,5,5.5,9,60,2,5.4
+U29829,35,Female,Student,iOS,1.8,1.9,8,4.7,7,14,4,6.2
+U29830,57,Female,Freelancer,Android,11.7,5.8,4,6.9,6,53,1,12.5
+U29831,55,Other,Freelancer,iOS,9.1,4.8,8,4.4,3,13,3,13.6
+U29832,52,Male,Business Owner,iOS,6.7,6.4,2,8.2,6,18,3,13.1
+U29833,20,Female,Professional,iOS,11.7,7.9,6,8.7,9,48,2,7.8
+U29834,22,Male,Business Owner,iOS,10.3,1.1,8,5.7,9,9,3,8.1
+U29835,31,Female,Student,iOS,4.0,1.0,4,7.9,9,24,3,3.6
+U29836,46,Male,Professional,Android,10.6,4.4,5,7.6,3,32,1,4.5
+U29837,45,Other,Business Owner,iOS,6.3,8.0,6,8.0,4,26,5,13.8
+U29838,53,Male,Business Owner,iOS,7.2,2.3,3,7.0,8,25,6,3.2
+U29839,32,Female,Student,Android,8.7,1.7,6,8.2,10,38,2,9.4
+U29840,44,Female,Professional,Android,10.1,1.9,8,7.3,2,51,2,4.8
+U29841,49,Male,Freelancer,iOS,11.6,6.1,8,7.2,5,14,2,3.0
+U29842,40,Male,Professional,Android,6.3,7.0,3,5.5,5,47,2,12.0
+U29843,57,Female,Student,iOS,11.1,3.7,6,8.1,6,9,3,11.6
+U29844,19,Female,Freelancer,Android,10.9,5.0,5,8.5,6,14,4,7.3
+U29845,24,Female,Professional,iOS,9.2,7.3,9,6.1,3,59,5,3.9
+U29846,48,Female,Business Owner,iOS,4.8,4.7,9,5.2,9,59,2,7.9
+U29847,46,Other,Business Owner,iOS,5.6,7.9,9,7.3,3,19,3,13.3
+U29848,57,Female,Student,Android,5.0,4.6,1,7.5,10,28,3,2.2
+U29849,22,Other,Freelancer,iOS,10.8,3.5,1,4.2,6,12,0,7.6
+U29850,38,Male,Business Owner,iOS,7.2,6.0,2,6.0,6,51,4,2.6
+U29851,27,Male,Freelancer,Android,3.5,3.4,2,7.6,10,47,6,7.9
+U29852,58,Female,Business Owner,iOS,9.4,1.8,7,4.7,5,31,4,5.0
+U29853,37,Male,Student,iOS,6.6,4.1,7,5.0,4,18,5,4.6
+U29854,35,Other,Professional,Android,4.9,1.9,8,4.9,4,32,0,11.0
+U29855,43,Female,Business Owner,iOS,5.6,1.3,6,7.0,9,9,3,6.8
+U29856,25,Male,Freelancer,iOS,7.2,5.7,6,8.5,5,41,5,8.3
+U29857,35,Male,Student,iOS,6.1,5.0,2,8.7,1,5,0,7.6
+U29858,36,Other,Freelancer,iOS,10.0,2.5,2,8.3,6,16,6,5.4
+U29859,19,Male,Student,Android,5.3,0.7,6,8.6,9,59,5,7.7
+U29860,57,Female,Professional,iOS,9.0,0.6,4,4.5,7,46,4,3.1
+U29861,28,Other,Business Owner,iOS,4.6,1.7,10,8.8,1,43,0,11.6
+U29862,31,Male,Student,iOS,11.9,1.8,2,7.8,8,32,4,12.5
+U29863,33,Female,Professional,iOS,5.1,1.6,4,4.0,9,54,6,5.7
+U29864,40,Other,Business Owner,Android,7.8,5.2,7,8.3,3,7,1,9.8
+U29865,22,Male,Student,iOS,11.1,2.7,2,6.3,7,19,0,2.1
+U29866,47,Female,Professional,iOS,8.0,3.8,2,7.7,7,60,0,10.1
+U29867,37,Male,Professional,Android,9.7,4.4,4,8.3,2,45,2,11.0
+U29868,43,Male,Student,Android,1.0,3.8,9,6.9,1,58,5,13.0
+U29869,41,Male,Student,Android,8.2,7.1,7,6.7,4,5,4,8.1
+U29870,45,Male,Business Owner,iOS,7.9,7.8,10,6.4,1,56,3,5.1
+U29871,37,Male,Business Owner,iOS,3.1,1.2,6,5.9,6,29,4,9.9
+U29872,26,Female,Freelancer,Android,8.1,7.1,8,4.3,3,18,3,3.1
+U29873,42,Female,Student,Android,4.5,7.8,3,4.1,6,54,3,4.3
+U29874,21,Female,Student,Android,8.9,3.3,3,8.3,6,46,1,2.8
+U29875,25,Other,Professional,iOS,10.2,1.5,1,7.6,10,41,3,10.2
+U29876,53,Other,Student,iOS,8.1,2.5,9,8.1,10,41,0,13.4
+U29877,42,Male,Business Owner,iOS,9.4,3.3,6,5.4,5,16,1,12.3
+U29878,33,Other,Business Owner,iOS,3.8,1.4,6,4.7,6,39,0,5.9
+U29879,49,Other,Professional,iOS,3.7,4.5,4,8.9,4,47,1,10.3
+U29880,26,Other,Student,iOS,2.7,1.0,2,7.2,1,55,4,4.1
+U29881,42,Female,Professional,Android,2.3,2.6,4,8.7,5,60,0,5.9
+U29882,31,Female,Student,Android,12.0,3.8,5,9.0,6,38,6,6.7
+U29883,22,Male,Professional,Android,9.1,4.8,9,4.1,1,22,6,12.5
+U29884,54,Female,Professional,Android,5.8,8.0,5,4.2,9,5,0,8.5
+U29885,55,Female,Business Owner,iOS,10.6,1.9,4,8.3,4,44,2,2.2
+U29886,40,Male,Business Owner,Android,10.0,7.2,3,8.6,3,22,6,13.6
+U29887,59,Female,Freelancer,Android,5.1,7.2,8,8.2,9,37,5,10.7
+U29888,42,Other,Professional,Android,2.6,6.5,9,8.7,9,5,2,9.3
+U29889,57,Other,Freelancer,Android,3.1,6.4,7,4.2,6,8,3,9.9
+U29890,58,Male,Student,Android,6.5,3.2,6,7.3,7,42,3,3.0
+U29891,39,Male,Professional,iOS,2.0,1.8,1,8.0,2,15,0,11.9
+U29892,40,Other,Freelancer,iOS,9.7,4.1,6,8.3,8,10,6,5.9
+U29893,55,Female,Professional,iOS,3.3,0.8,2,8.1,1,14,6,3.1
+U29894,28,Female,Business Owner,Android,2.5,4.1,7,6.0,5,55,5,6.5
+U29895,58,Female,Business Owner,Android,7.8,2.4,8,4.5,3,17,3,12.3
+U29896,29,Male,Professional,Android,10.6,5.4,7,7.8,2,12,2,11.9
+U29897,49,Female,Student,iOS,2.8,3.3,9,6.4,6,55,4,8.7
+U29898,46,Other,Freelancer,Android,4.3,3.1,8,8.7,2,53,3,10.7
+U29899,42,Male,Student,Android,6.2,6.7,5,4.2,4,8,4,9.0
+U29900,34,Female,Professional,iOS,10.2,4.6,10,5.8,1,33,6,9.9
+U29901,23,Female,Student,Android,11.5,2.3,9,4.9,6,19,4,10.3
+U29902,37,Male,Professional,iOS,9.6,5.4,1,4.4,2,52,5,12.8
+U29903,56,Female,Professional,Android,3.7,2.9,10,8.5,8,55,4,9.5
+U29904,20,Other,Freelancer,Android,2.6,4.4,10,7.3,9,56,6,7.3
+U29905,19,Female,Business Owner,iOS,1.7,1.3,4,4.7,4,54,0,8.9
+U29906,31,Female,Student,iOS,8.3,7.0,5,5.1,10,57,5,2.6
+U29907,53,Female,Business Owner,Android,1.2,7.1,10,7.8,2,9,1,11.1
+U29908,38,Male,Freelancer,Android,7.5,5.0,2,6.7,4,8,0,6.2
+U29909,18,Other,Business Owner,iOS,10.2,6.3,7,5.2,7,25,2,3.3
+U29910,29,Other,Business Owner,Android,5.0,1.7,1,8.9,10,37,2,3.3
+U29911,39,Male,Business Owner,Android,3.0,0.6,8,8.8,9,35,3,6.4
+U29912,39,Female,Student,iOS,10.2,6.7,10,4.2,10,35,4,10.7
+U29913,22,Female,Business Owner,Android,8.5,4.3,10,5.5,3,26,6,7.5
+U29914,31,Female,Student,iOS,7.4,6.0,9,6.2,7,36,4,12.5
+U29915,35,Other,Professional,Android,4.4,6.0,7,8.4,1,48,5,2.4
+U29916,36,Female,Freelancer,iOS,11.5,2.5,10,8.2,1,32,2,7.2
+U29917,34,Male,Business Owner,iOS,1.7,3.4,7,4.1,7,32,2,12.8
+U29918,53,Female,Business Owner,Android,7.3,4.1,10,6.3,7,54,0,9.3
+U29919,43,Male,Business Owner,iOS,8.8,1.9,9,8.6,7,20,6,6.5
+U29920,48,Male,Student,iOS,10.1,7.0,3,6.8,3,33,2,8.4
+U29921,27,Male,Freelancer,iOS,7.8,2.7,6,7.5,1,10,4,14.0
+U29922,29,Male,Freelancer,iOS,5.5,3.2,2,6.6,5,6,4,11.9
+U29923,52,Other,Business Owner,iOS,4.8,5.5,7,4.8,3,17,3,8.5
+U29924,52,Other,Professional,Android,6.9,2.8,2,7.9,1,27,4,13.5
+U29925,32,Male,Professional,iOS,2.6,2.1,8,4.9,5,51,0,9.0
+U29926,54,Male,Freelancer,Android,7.4,3.3,5,8.5,2,16,2,3.2
+U29927,18,Other,Student,Android,3.7,6.7,7,8.8,3,32,1,3.1
+U29928,37,Male,Freelancer,iOS,8.9,7.6,1,6.9,1,16,0,3.5
+U29929,48,Other,Student,iOS,1.3,7.1,1,6.9,10,35,3,6.5
+U29930,33,Male,Professional,iOS,2.4,3.4,8,7.5,1,32,2,5.8
+U29931,32,Other,Professional,Android,11.0,8.0,7,4.1,6,28,2,4.9
+U29932,22,Male,Business Owner,Android,8.4,6.3,5,6.5,6,40,4,11.4
+U29933,34,Other,Freelancer,iOS,7.8,3.1,1,4.2,10,5,0,3.6
+U29934,41,Male,Business Owner,Android,11.0,3.5,4,4.9,7,23,1,6.3
+U29935,35,Male,Freelancer,Android,11.9,5.6,9,4.5,5,12,2,2.9
+U29936,42,Other,Business Owner,iOS,5.4,3.5,3,5.9,7,35,3,12.0
+U29937,23,Male,Student,Android,7.5,2.0,9,7.1,8,47,4,6.8
+U29938,41,Male,Student,iOS,4.7,4.4,3,4.7,2,52,0,5.3
+U29939,48,Other,Freelancer,Android,10.3,3.2,8,5.9,3,60,2,3.1
+U29940,36,Female,Business Owner,Android,8.3,1.6,1,4.5,4,51,6,7.7
+U29941,55,Female,Student,Android,5.5,3.4,4,7.7,4,59,2,12.9
+U29942,30,Male,Student,Android,7.9,1.3,10,6.2,5,45,6,7.2
+U29943,27,Other,Professional,iOS,6.6,7.0,5,5.3,1,30,0,9.5
+U29944,40,Other,Professional,Android,11.4,0.9,1,8.5,9,34,2,12.1
+U29945,23,Male,Freelancer,Android,2.6,3.3,9,8.3,10,57,3,4.6
+U29946,25,Male,Student,Android,5.2,1.1,4,7.2,10,57,1,9.9
+U29947,34,Female,Business Owner,iOS,2.9,5.2,9,9.0,7,12,4,11.7
+U29948,55,Other,Business Owner,iOS,7.2,1.4,1,8.6,4,45,4,13.8
+U29949,47,Female,Business Owner,Android,7.6,6.5,7,7.2,7,17,1,7.1
+U29950,51,Other,Freelancer,iOS,9.3,4.3,7,8.4,2,57,3,9.9
+U29951,51,Other,Professional,Android,8.8,3.3,4,5.4,2,24,5,2.5
+U29952,47,Other,Professional,Android,7.0,7.6,5,6.5,2,32,5,7.2
+U29953,55,Male,Freelancer,iOS,8.0,2.1,1,5.2,5,40,4,6.1
+U29954,38,Other,Student,iOS,3.1,2.3,9,7.5,9,56,1,7.3
+U29955,31,Other,Professional,iOS,1.6,5.8,10,7.1,4,47,4,14.0
+U29956,22,Female,Freelancer,Android,6.4,6.6,7,4.9,7,23,5,11.4
+U29957,26,Other,Business Owner,Android,6.8,4.1,10,4.3,7,10,4,13.8
+U29958,18,Female,Business Owner,Android,10.6,4.9,4,4.4,3,37,0,5.1
+U29959,36,Male,Business Owner,iOS,4.6,7.5,7,5.2,9,52,1,2.5
+U29960,18,Other,Business Owner,Android,1.3,3.7,9,8.6,5,57,2,12.2
+U29961,55,Female,Student,iOS,4.8,1.8,6,4.6,6,35,2,7.0
+U29962,38,Female,Freelancer,iOS,11.1,6.1,3,8.4,1,40,4,13.4
+U29963,36,Female,Professional,Android,1.6,3.9,2,6.3,1,48,3,2.2
+U29964,33,Other,Business Owner,Android,7.4,3.5,6,5.4,4,9,1,11.5
+U29965,46,Other,Business Owner,Android,10.1,3.7,1,6.9,10,31,4,10.2
+U29966,49,Other,Professional,iOS,8.3,1.6,10,4.7,5,39,5,7.8
+U29967,59,Female,Student,Android,5.4,5.5,1,4.7,9,46,4,2.6
+U29968,45,Male,Business Owner,Android,4.8,0.9,5,8.5,10,28,5,13.1
+U29969,45,Male,Student,iOS,5.4,7.9,8,6.8,10,53,2,3.7
+U29970,24,Male,Freelancer,iOS,8.4,2.6,4,4.8,7,7,1,7.9
+U29971,50,Female,Business Owner,iOS,9.7,2.2,7,6.2,1,51,6,8.2
+U29972,30,Female,Freelancer,iOS,1.4,6.6,10,4.4,1,22,6,10.7
+U29973,21,Male,Professional,Android,7.5,2.9,7,6.6,9,53,3,4.8
+U29974,51,Other,Business Owner,iOS,10.0,4.6,8,4.5,9,53,6,7.2
+U29975,41,Other,Business Owner,iOS,3.4,6.0,7,8.0,6,48,1,11.5
+U29976,50,Male,Professional,Android,6.7,1.9,1,4.1,4,9,5,9.7
+U29977,21,Male,Freelancer,iOS,5.1,4.7,2,7.5,4,6,6,6.0
+U29978,21,Other,Freelancer,Android,3.9,5.1,4,5.0,2,58,3,6.1
+U29979,24,Male,Freelancer,iOS,11.2,4.7,2,5.7,10,19,5,9.4
+U29980,52,Other,Professional,iOS,8.1,2.7,10,6.4,5,31,2,10.7
+U29981,48,Male,Business Owner,iOS,6.5,8.0,5,8.0,4,17,5,13.7
+U29982,33,Female,Student,iOS,11.1,2.4,3,7.0,1,48,5,13.3
+U29983,23,Male,Student,iOS,4.7,6.9,2,8.1,6,34,5,10.7
+U29984,37,Female,Freelancer,Android,5.7,1.4,1,7.3,1,43,1,6.0
+U29985,31,Other,Student,Android,3.6,5.4,2,8.5,4,10,5,7.1
+U29986,55,Other,Professional,iOS,1.8,1.4,7,4.3,10,39,5,12.9
+U29987,23,Male,Student,Android,1.9,4.2,3,4.4,3,46,2,3.8
+U29988,38,Male,Student,Android,3.8,4.5,3,7.6,1,40,5,7.1
+U29989,23,Female,Student,Android,4.4,0.6,5,8.3,9,10,0,10.0
+U29990,22,Male,Freelancer,Android,5.6,3.5,5,8.3,2,8,4,6.4
+U29991,34,Female,Freelancer,iOS,9.2,2.6,2,8.7,7,57,1,13.5
+U29992,32,Female,Student,Android,8.8,6.7,7,7.8,5,20,6,10.6
+U29993,45,Male,Business Owner,iOS,1.5,6.2,8,8.0,3,31,3,4.5
+U29994,48,Other,Professional,iOS,6.5,4.9,6,8.8,7,7,2,8.4
+U29995,52,Male,Freelancer,iOS,4.5,3.0,9,8.1,10,49,1,6.6
+U29996,44,Female,Student,iOS,11.8,4.8,7,8.0,4,30,1,11.4
+U29997,28,Female,Freelancer,iOS,3.4,6.6,10,6.4,6,21,5,4.4
+U29998,58,Other,Freelancer,Android,10.9,2.4,1,6.8,9,32,2,8.9
+U29999,24,Other,Freelancer,Android,8.5,2.4,8,8.9,6,43,0,4.2
+U30000,18,Other,Student,Android,3.2,4.1,10,6.4,4,15,3,11.2
